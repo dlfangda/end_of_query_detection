@@ -1,0 +1,12 @@
+matplotlib
+tgt==1.0.2
+pandas
+numpy
+nltk
+scipy
+theano
+scikit-learn
+keras==1.2
+webrtcvad
+patsy
+statsmodels

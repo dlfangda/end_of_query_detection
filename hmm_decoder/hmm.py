@@ -1,0 +1,427 @@
+# Adapted from: Hidden Markov Models in Python
+# Katrin Erk, March 2013
+#
+# This HMM addresses the problem of disfluency/end of utternace tagging. It estimates
+# the probability of a tag sequence for a given word sequence as follows:
+#
+# Say words = w1....wN
+# and tags = t1..tN
+#
+# then
+# P(tags | words) is_proportional_to  product P(ti | t{i-1}) P(wi | ti)
+#
+# To find the best tag sequence for a given sequence of words,
+# we want to find the tag sequence that has the maximum P(tags | words)
+
+import math
+from copy import deepcopy
+import numpy as np
+import nltk
+
+from hmm_utils import convert_to_dot
+
+
+def load_tags(filename):
+    return
+
+def log(prob):
+    if prob == 0.0:
+        return - float("Inf")
+    return math.log(prob,2)
+
+def convert_to_trp_with_time(previous, tag):
+    return tag
+    #time = ""
+    #if tag == "s":
+    #    return "s"
+    #if previous == "s":
+    #    time = "10"
+    #elif not tag == "trp":
+    #    if previous.startswith(tag):
+    #        time = "20"
+    #    else:
+    #        time = "10"
+    #return tag+time
+    
+
+class rnn_hmm():
+    """A standard hmm model which interfaces with an rnn/lstm model that outputs the softmax over all labels at each time step."""
+    
+    def __init__(self, disf_dict, rnn=None, markov_model_file=None):
+        self.rnn = rnn #the rnn used to get the probability distributions
+        self.tagToIndexDict = disf_dict #dict maps from tags -> indices
+        
+        self.observation_tags = set(self.tagToIndexDict.keys())
+        self.observation_tags.add('s') # all tag sets need a start tag
+        #load the hmm model (transitions) from csv to dot string
+        graph = convert_to_dot(markov_model_file)
+        #save for the record
+        dotfile = open(markov_model_file.replace(".csv",".dot"),'w')
+        dotfile.write(graph)
+        dotfile.close()
+
+        self.convert_tag = convert_to_trp_with_time
+
+            
+        tags = []
+        self.tag_set = []
+        for line in graph.split("\n"):
+            spl = line.split()
+            print spl
+            if not len(spl) == 3:
+                continue
+            assert spl[1]=="->"
+            print "getting here"
+            tags.append((spl[0],spl[2].replace(";","")))
+            self.tag_set.extend([spl[0],spl[2]])
+        
+        self.tag_set = set(self.tag_set)
+        
+        cfd_tags= nltk.ConditionalFreqDist(tags)
+        self.cpd_tags = nltk.ConditionalProbDist(cfd_tags, nltk.MLEProbDist)
+
+        self.viterbi_init() #initialize viterbi
+        
+        print "Test: If we have just seen 's', the probability of 'mtp10' is", self.cpd_tags["s"].prob("mtp10")
+        print self.cpd_tags.keys()
+        print self.cpd_tags.items()
+    
+    def viterbi_init(self):
+        self.best_tagsequence = [] #presume this is for a new sequence    
+        self.viterbi = [ ]
+        self.backpointer = [ ]
+        self.converted = []
+        
+    def prob(self, predictions, tags, words):  
+        """Takes numeric predictions (arrays of probabilities over states)
+           And the mapping from positions in this array to words.
+           Then computes the probability of the sequence with regard to our markov tag model (self.cpd_tags)
+        """    
+        #softmax = self.rnn.soft_max(numpy.asarray(contextwinbackwards(words, s['win'])).astype('int32')) #single array n_words * n_classes
+        
+        
+        #try the restart incremental setting, where we access the whole sequence each time?
+        #=======================================================================
+        # prob_tagsequence = self.cpd_tags["START"].prob("<f/>") * rnn.softmax(words[0:1]).prob("<f/>") * \
+        #     self.cpd_tags["<f/>"].prob("<rm-1/><rpMid/>") * rnn.softmax(words[0:2]).prob("<rm-1/><rpMid/>") * \
+        #     self.cpd_tags["<rm-1/><rpMid/>"].prob("<f/>") * rnn.argmax(words[0:3]).prob("<f/>")* \
+        #     self.cpd_tags["<f/>"].prob("<f/>") * rnn.argmax(words[0:4]).prob("<f/>") * \
+        #     self.cpd_tags["<f/>"].prob("END")
+        #=======================================================================
+        
+        
+        #total_probs = 0.0 #always start with the first word
+        #for i in range(0,len(words)+1):
+        #    if i == 0:
+        #        total_probs += log(self.cpd_tags["s"].prob(tags[0]))
+        #    elif i == len(words):
+        #        total_probs += log(self.cpd_tags[i-1].prob(tags["se"]))
+        #        break
+        #    else:
+        #        total_probs += log(self.cpd_tags[i-1].prob(tags[i]))
+        #    total_probs += log(softmax[i][self.tagToIndexDict[words[i]]])
+        #print "Test: the log probability of the tag sequence 'START f rm-1rpMid f f END' for 'I I like john' is:", total_probs
+    
+    def viterbi_step(self,softmax,word_index,sequence_initial=False):
+        """The principal viterbi calculation for an extension to the input prefix, i.e. not reseting"""
+        if sequence_initial: #first time, slightly different as requires initialization with the start of sequence tag
+            first_viterbi = { }
+            first_backpointer = { }
+            first_converted = { }
+            #print softmax[word_index]
+            for tag in self.observation_tags:
+                # don't record anything for the START tag
+                if tag == "s" or tag == 'se': continue
+                first_viterbi[tag] = log(self.cpd_tags["s"].prob(self.convert_tag("s",tag))) + log(softmax[word_index][self.tagToIndexDict[tag]])
+                #print tag, "..."
+                #print self.tagToIndexDict[tag]
+                #print softmax[word_index][self.tagToIndexDict[tag]]
+                #print self.cpd_tags["s"]
+                #print self.cpd_tags["s"].prob(self.convert_tag("s",tag))
+                #print softmax[word_index][self.tagToIndexDict[tag]]
+                first_backpointer[tag] = "s"
+                first_converted[tag] = self.convert_tag("s",tag)
+            
+            # store first_viterbi (the dictionary for the first word in the sentence)
+            # in the viterbi list, and record that the best previous tag
+            # for any first tag is "s" (start of sequence tag)
+            self.viterbi.append(first_viterbi)
+            self.backpointer.append(first_backpointer)
+            self.converted.append(first_converted)
+            return
+        # else we're beyond the first word
+        # start a new dictionary where we can store, for each tag, the probability 
+        # of the best tag sequence ending in that tag
+        # for the current word in the sentence
+        this_viterbi = { }
+        #we also store the best previous converted tag
+        this_converted = { } # added for the best converted tags
+        # start a new dictionary we we can store, for each tag,
+        # the best previous tag
+        this_backpointer = { }
+        # prev_viterbi is a dictionary that stores, for each tag, the probability
+        # of the best tag sequence ending in that tag
+        # for the previous word in the sentence.
+        # So it stores, for each tag, the probability of a tag sequence up to the previous word
+        # ending in that tag. 
+        prev_viterbi = self.viterbi[-1]
+        prev_converted = self.converted[-1]
+        
+        # for each tag, determine what the best previous-tag is,
+        # and what the probability is of the best tag sequence ending in this tag.
+        # store this information in the dictionary this_viterbi
+        for tag in self.observation_tags:
+            # don't record anything for the START/END tag
+            if tag == "s" or tag == "se": continue
+            # joint probability calculation:
+            # if this tag is X and the current word is w, then 
+            # find the previous tag Y such that
+            # the best tag sequence that ends in X
+            # actually ends in Y X
+            # that is, the Y that maximizes
+            # prev_viterbi[ Y ] * P(X | Y) * P( w | X)
+            # The following command has the same notation
+            # that you saw in the sorted() command.
+            #print tag, "..."
+            #print self.tagToIndexDict[tag]
+            #print softmax[word_index][self.tagToIndexDict[tag]]
+            #print self.cpd_tags["s"]
+            #print self.cpd_tags["s"].prob(self.convert_tag("s",tag))
+            #print softmax[word_index][self.tagToIndexDict[tag]]
+            best_previous = None
+            best_prob = log(0.0) # has to be -inf for log numbers
+            best_previous_converted = None
+            #the inner loop which makes this quadratic complexity in the tag set size
+            for prevtag in prev_viterbi.keys():
+                prev_converted_tag = prev_converted[prevtag] #ie gives the best converted tag, needs to access the previous one???
+                #note there could be several conversions for this tag?
+                converted_tag = self.convert_tag(prev_converted_tag, tag)
+                tag_prob = self.cpd_tags[prev_converted_tag].prob(converted_tag)
+                if tag_prob > 0:
+                    tag_prob = log(1.0) #TODO for now just treating this like a constraint on possible tags
+                else:
+                    tag_prob = log(0.0)
+                prob = prev_viterbi[ prevtag ] + tag_prob \
+                                + log(softmax[word_index][self.tagToIndexDict[tag]])
+                if prob >= best_prob:
+                    best_previous_converted = prev_converted_tag
+                    best_converted = converted_tag
+                    best_previous = prevtag
+                    best_prob = prob
+            
+            this_converted[tag] = best_converted
+            #this_viterbi[tag] = prev_viterbi[best_previous] + \
+             #                     log(self.cpd_tags[best_previous_converted].prob(self.convert_tag(best_previous_converted, tag))) + \
+            #                    log(softmax[word_index][self.tagToIndexDict[tag]])
+            this_viterbi[tag] = best_prob
+            
+            this_backpointer[tag] = best_previous #the most likely preceding tag for this current tag
+    
+        # done with all tags in this iteration
+        # so store the current viterbi step
+        self.viterbi.append(this_viterbi)
+        self.backpointer.append(this_backpointer)
+        self.converted.append(this_converted)
+        return
+    
+    def get_best_tag_sequence(self):
+        """Returns the best tag sequence from the input so far"""
+        #inc_prev_converted = deepcopy(converted[-1])
+        inc_prev_viterbi = deepcopy(self.viterbi[-1])
+        inc_best_previous = max(inc_prev_viterbi.keys(),
+                         key = lambda prevtag: inc_prev_viterbi[prevtag])
+        assert(inc_prev_viterbi[inc_best_previous])!=log(0),"highest likelihood is 0!"
+        inc_best_tag_sequence = [ inc_best_previous ]
+        # invert the list of backpointers
+        inc_backpointer = deepcopy(self.backpointer)
+        inc_backpointer.reverse()
+        
+        # go backwards through the list of backpointers
+        # (or in this case forward, because we have inverted the backpointer list)
+        inc_current_best_tag = inc_best_previous
+        for bp in inc_backpointer:
+            inc_best_tag_sequence.append(bp[inc_current_best_tag])
+            inc_current_best_tag = bp[inc_current_best_tag]
+        
+        inc_best_tag_sequence.reverse()
+        return inc_best_tag_sequence
+    
+    def viterbi_decode(self, softmax, incremental_best=False):
+        """Standard non incremental (sequence-level) viterbi over softmax input
+        
+        Keyword arguments:
+        softmax -- the emmision probabilities of each step in the sequence, array of width n_classes
+        incremental_best -- whether the tag sequence prefix is stored for each step in the sequence (slightly 'hack-remental'
+        """
+        incrementalBest = [] #increco style, the best for whole utterance at each word. Not really being called incrementally
+        sentlen = len(softmax)
+        print sentlen
+        print softmax.shape, "softmax shape"
+        
+        self.viterbi_init()
+        
+        for word_index in range(0, sentlen):
+            self.viterbi_step(softmax, word_index, word_index==0)
+            #INCREMENTAL RESULTS (hack-remental in that it's doing it post-hoc)
+            #the best result we have so far, not given the next one
+            if incremental_best:
+                inc_best_tag_sequence = self.get_best_tag_sequence()
+                print inc_best_tag_sequence
+                incrementalBest.append(deepcopy(inc_best_tag_sequence[1:]))
+        #END OF input LOOP
+        
+        # done with all words/input in the sentence/sentence
+        # now find the probability of each tag to have "se" (end of utterance as the next tag,
+        # and use that to find the overall best sequence
+        prev_converted = self.converted[-1]
+        prev_viterbi = self.viterbi[-1]
+        best_previous = max(prev_viterbi.keys(),
+                             key = lambda prevtag: prev_viterbi[ prevtag ] + log(self.cpd_tags[prev_converted[prevtag]].prob("se")))
+        #prob_tagsequence = prev_viterbi[ best_previous ] + log(self.cpd_tags[prev_converted[best_previous]].prob("se"))
+        
+        #best tagsequence: we store this in reverse for now, will invert later
+        self.best_tagsequence = [ "se", best_previous ]
+        # invert the list of backpointers
+        self.backpointer.reverse()
+        
+        # go backwards through the list of backpointers
+        # (or in this case forward, because we have inverter the backpointer list)
+        # in each case:
+        # the following best tag is the one listed under
+        # the backpointer for the current best tag
+        current_best_tag = best_previous
+        for bp in self.backpointer:
+            self.best_tagsequence.append(bp[current_best_tag])
+            current_best_tag = bp[current_best_tag]
+        
+        self.best_tagsequence.reverse()
+        if incremental_best:
+            incrementalBest.append(self.best_tagsequence[1:-1]) #NB also consumes the end of utterance token! Last two the same
+            return incrementalBest
+        return self.best_tagsequence[1:-1]
+
+    def viterbi_incremental(self,soft_max,a_range=None,changed_suffix_only=False):
+        """Given a new softmax input, output the latest labels. Effectively incrementing/editing self.best_tagsequence.
+
+        Keyword arguments:
+        changed_suffix_only -- boolean, output the changed suffix of the previous output sequence of labels.
+            i.e. if before this function is called the sequence is 
+            [1:A, 2:B, 3:C]
+            and after it is 
+            [1:A, 2:B, 3:E, 4:D]
+            then output is: 
+            [3:E, 4:D]
+            (TODO maintaining the index/time spans is important to acheive this, even if only externally)
+        """
+        previous_best = deepcopy(self.best_tagsequence)
+        #print "previous best", previous_best
+        if not a_range:
+            a_range = (0,len(soft_max)) #if not specified consume the whole soft_max input
+        for i in xrange(a_range[0],a_range[1]):
+            self.viterbi_step(soft_max,i,self.viterbi==[]) #slice the input if multiple steps
+        self.best_tagsequence = self.get_best_tag_sequence() # get the best tag sequence we have so far
+        if changed_suffix_only:
+            #print "current best", self.best_tagsequence
+            #only output the suffix of predictions which has changed- TODO needs IDs to work
+            for r in range(1,len(self.best_tagsequence)):
+                if r > len(previous_best)-1 or previous_best[r]!=self.best_tagsequence[r]:
+                    return self.best_tagsequence[r:]
+        return self.best_tagsequence[1:]
+    
+##    def viterbi_incremental(self,soft_max,a_range=None,changed_suffix_only=False):
+##        """Given a new softmax input, output the latest labels. Effectively incrementing/editing self.best_tagsequence.
+##        
+##        Keyword arguments:
+##        changed_suffix_only -- boolean, output the changed suffix of the previous output sequence of labels.
+##            i.e. if before this function is called the sequence is 
+##            [1:A, 2:B, 3:C]
+##            and after it is 
+##            [1:A, 2:B, 3:E, 4:D]
+##            then output is: 
+##            [3:E, 4:D]
+##            (TODO maintaining the index/time spans is important to acheive this, even if only externally)
+##        """
+##        print self.viterbi
+##        raw_input()
+##        previous_best = deepcopy(self.best_tagsequence)
+##        if not a_range:
+##            a_range = (0,len(soft_max)) #if not specified consume the whole soft_max input
+##        for i in xrange(a_range[0],a_range[1]):
+##            self.viterbi_step(soft_max,i,self.viterbi==[]) #slice the input if multiple steps
+##        self.best_tagsequence = self.get_best_tag_sequence() # get the best tag sequence we have so far
+##        if changed_suffix_only:
+##            #only output the suffix of predictions which has changed- TODO needs IDs to work
+##            for r in range(0,previous_best):
+##                if previous_best[r]!=self.best_tagsequence[r]:
+##                    return self.best_tagsequence[r:]
+##        return self.best_tagsequence
+
+if __name__ == '__main__':
+    tags = load_tags("../data/tag_representations/swbd1_trp_tags.csv")
+    #add the tags
+    intereg_ind = len(tags.keys())
+    tags["<i/><cc>"] = intereg_ind #add the interregnum tag
+    
+    #print tags
+    h = rnn_hmm(tags, markov_model_file="models/disfluency_trp.csv")
+    #===========================================================================
+    # s1 = [0] * len(tags.keys()-1)
+    # softmax[tags["<f/><tc>"]] = 0.5 
+    # softmax[tags["<e/><tc>"]] = 0.4
+    # softmax[tags["<e/><cc>"]] = 0.5 #not actually possible
+    # softmax[tags["<i/><cc>"]] = softmax[tags["<e/><cc>"]]#interregna dynamically created as a copy of continuation of the <e>
+    # print len(softmax)
+    # #makes it not a proper probability distribution anymore, but it doesn't really matter
+    # #as we use max/arg max etc as decision functions
+    # softmax = np.asarray([softmax],dtype='float32')
+    # print softmax
+    #===========================================================================
+    h.viterbi_init()
+    #1. try an incremental decode, as the softmax matrix gets incrementally extended
+    #in fact, no need to pass the whole matrix to it every time, just the new increment matrix
+    #===========================================================================
+    # x1 =  h.viterbi_incremental(softmax,[0,1])
+    # s = 0
+    # for d in h.viterbi:
+    #     print "stage",s
+    #     s+=1
+    #     for key,value in d.items():
+    #         print key, value
+    # #for d in h.backpointer:
+    # #    for key,value in d.items():
+    # #        print key, value
+    # print x1
+    # print "*" * 50
+    #===========================================================================
+    #===========================================================================
+    # x2 = h.viterbi_incremental(softmax,[0,1])
+    # s = 0
+    # for d in h.viterbi:
+    #     print "stage",s
+    #     s+=1
+    #     for key,value in d.items():
+    #         print key, value
+    # print x2
+    #===========================================================================
+    
+    
+    s0 = [0] * (len(tags.keys())-1)
+    s0[tags["<e/><tc>"]] = 0.5
+    s1 = [0] * (len(tags.keys())-1)
+    s1[tags["<e/><cc>"]] = 0.5
+    s1[tags['<rm-2/><rpEndSub/><ct>']] = 0.5
+    softmax2 = np.asarray([s0,s1],dtype="float32")
+    print softmax2
+    print softmax2.shape
+    
+    softmax = np.concatenate(( softmax2, softmax2[:,tags["<e/><cc>"]].reshape(softmax2.shape[0],1) ),1)
+    print softmax
+    print softmax.shape
+    x2 = h.viterbi_incremental(softmax,[0,2])
+    s = 0
+    for d in h.viterbi:
+        print "stage",s
+        s+=1
+        for key,value in d.items():
+            print key, value
+    print x2

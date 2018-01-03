@@ -1,0 +1,1 @@
+The data does not live here, please obtain by cloning https://bitbucket.org/anmaier/eot_detection_data in the sister directory to the root directory of this repository.

@@ -1,0 +1,2312 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 50_None 1.0
+0.194805194805 15 77 correct in window
+0.805194805195 62 77 cut_ins
+5.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 100_None 1.0
+0.207792207792 16 77 correct in window
+0.792207792208 61 77 cut_ins
+10.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 150_None 1.0
+0.25974025974 20 77 correct in window
+0.74025974026 57 77 cut_ins
+15.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 200_None 1.0
+0.285714285714 22 77 correct in window
+0.714285714286 55 77 cut_ins
+20.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 250_None 1.0
+0.285714285714 22 77 correct in window
+0.714285714286 55 77 cut_ins
+25.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 300_None 1.0
+0.285714285714 22 77 correct in window
+0.714285714286 55 77 cut_ins
+30.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 350_None 1.0
+0.350649350649 27 77 correct in window
+0.649350649351 50 77 cut_ins
+35.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 400_None 1.0
+0.363636363636 28 77 correct in window
+0.636363636364 49 77 cut_ins
+40.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 450_None 1.0
+0.38961038961 30 77 correct in window
+0.61038961039 47 77 cut_ins
+45.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 500_None 1.0
+0.428571428571 33 77 correct in window
+0.571428571429 44 77 cut_ins
+50.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 550_None 1.0
+0.428571428571 33 77 correct in window
+0.571428571429 44 77 cut_ins
+55.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 600_None 1.0
+0.441558441558 34 77 correct in window
+0.558441558442 43 77 cut_ins
+60.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 650_None 1.0
+0.467532467532 36 77 correct in window
+0.532467532468 41 77 cut_ins
+65.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 700_None 1.0
+0.467532467532 36 77 correct in window
+0.532467532468 41 77 cut_ins
+70.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 750_None 1.0
+0.480519480519 37 77 correct in window
+0.519480519481 40 77 cut_ins
+75.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 800_None 1.0
+0.0 0 77 correct in window
+0.519480519481 40 77 cut_ins
+80.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 850_None 1.0
+0.0 0 77 correct in window
+0.506493506494 39 77 cut_ins
+85.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 900_None 1.0
+0.0 0 77 correct in window
+0.506493506494 39 77 cut_ins
+90.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 950_None 1.0
+0.0 0 77 correct in window
+0.493506493506 38 77 cut_ins
+95.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 1000_None 1.0
+0.0 0 77 correct in window
+0.493506493506 38 77 cut_ins
+100.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 1050_None 1.0
+0.0 0 77 correct in window
+0.467532467532 36 77 cut_ins
+105.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 1100_None 1.0
+0.0 0 77 correct in window
+0.454545454545 35 77 cut_ins
+110.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 1150_None 1.0
+0.0 0 77 correct in window
+0.454545454545 35 77 cut_ins
+115.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 1200_None 1.0
+0.0 0 77 correct in window
+0.441558441558 34 77 cut_ins
+120.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 1250_None 1.0
+0.0 0 77 correct in window
+0.441558441558 34 77 cut_ins
+125.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 1300_None 1.0
+0.0 0 77 correct in window
+0.441558441558 34 77 cut_ins
+130.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 1350_None 1.0
+0.0 0 77 correct in window
+0.402597402597 31 77 cut_ins
+135.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 1400_None 1.0
+0.0 0 77 correct in window
+0.402597402597 31 77 cut_ins
+140.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 1450_None 1.0
+0.0 0 77 correct in window
+0.38961038961 30 77 cut_ins
+145.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 1500_None 1.0
+0.0 0 77 correct in window
+0.376623376623 29 77 cut_ins
+150.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 1550_None 1.0
+0.0 0 77 correct in window
+0.350649350649 27 77 cut_ins
+155.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 1600_None 1.0
+0.0 0 77 correct in window
+0.324675324675 25 77 cut_ins
+160.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 1650_None 1.0
+0.0 0 77 correct in window
+0.324675324675 25 77 cut_ins
+165.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 1700_None 1.0
+0.0 0 77 correct in window
+0.311688311688 24 77 cut_ins
+170.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 1750_None 1.0
+0.0 0 77 correct in window
+0.285714285714 22 77 cut_ins
+175.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 1800_None 1.0
+0.0 0 77 correct in window
+0.285714285714 22 77 cut_ins
+180.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 1850_None 1.0
+0.0 0 77 correct in window
+0.272727272727 21 77 cut_ins
+185.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 1900_None 1.0
+0.0 0 77 correct in window
+0.272727272727 21 77 cut_ins
+190.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 1950_None 1.0
+0.0 0 77 correct in window
+0.272727272727 21 77 cut_ins
+195.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 2000_None 1.0
+0.0 0 77 correct in window
+0.25974025974 20 77 cut_ins
+200.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 2050_None 1.0
+0.0 0 77 correct in window
+0.220779220779 17 77 cut_ins
+205.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 2100_None 1.0
+0.0 0 77 correct in window
+0.207792207792 16 77 cut_ins
+210.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 2150_None 1.0
+0.0 0 77 correct in window
+0.207792207792 16 77 cut_ins
+215.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 2200_None 1.0
+0.0 0 77 correct in window
+0.207792207792 16 77 cut_ins
+220.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 2250_None 1.0
+0.0 0 77 correct in window
+0.207792207792 16 77 cut_ins
+225.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 2300_None 1.0
+0.0 0 77 correct in window
+0.207792207792 16 77 cut_ins
+230.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 2350_None 1.0
+0.0 0 77 correct in window
+0.207792207792 16 77 cut_ins
+235.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 2400_None 1.0
+0.0 0 77 correct in window
+0.207792207792 16 77 cut_ins
+240.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 2450_None 1.0
+0.0 0 77 correct in window
+0.207792207792 16 77 cut_ins
+245.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 2500_None 1.0
+0.0 0 77 correct in window
+0.207792207792 16 77 cut_ins
+250.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 2550_None 1.0
+0.0 0 77 correct in window
+0.207792207792 16 77 cut_ins
+255.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 2600_None 1.0
+0.0 0 77 correct in window
+0.207792207792 16 77 cut_ins
+260.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 2650_None 1.0
+0.0 0 77 correct in window
+0.207792207792 16 77 cut_ins
+265.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 2700_None 1.0
+0.0 0 77 correct in window
+0.207792207792 16 77 cut_ins
+270.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 2750_None 1.0
+0.0 0 77 correct in window
+0.207792207792 16 77 cut_ins
+275.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 2800_None 1.0
+0.0 0 77 correct in window
+0.207792207792 16 77 cut_ins
+280.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 2850_None 1.0
+0.0 0 77 correct in window
+0.207792207792 16 77 cut_ins
+285.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 2900_None 1.0
+0.0 0 77 correct in window
+0.194805194805 15 77 cut_ins
+290.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 2950_None 1.0
+0.0 0 77 correct in window
+0.181818181818 14 77 cut_ins
+295.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 3000_None 1.0
+0.0 0 77 correct in window
+0.181818181818 14 77 cut_ins
+300.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 3050_None 1.0
+0.0 0 77 correct in window
+0.181818181818 14 77 cut_ins
+305.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 3100_None 1.0
+0.0 0 77 correct in window
+0.181818181818 14 77 cut_ins
+310.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 3150_None 1.0
+0.0 0 77 correct in window
+0.181818181818 14 77 cut_ins
+315.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 3200_None 1.0
+0.0 0 77 correct in window
+0.181818181818 14 77 cut_ins
+320.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 3250_None 1.0
+0.0 0 77 correct in window
+0.168831168831 13 77 cut_ins
+325.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 3300_None 1.0
+0.0 0 77 correct in window
+0.168831168831 13 77 cut_ins
+330.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 3350_None 1.0
+0.0 0 77 correct in window
+0.168831168831 13 77 cut_ins
+335.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 3400_None 1.0
+0.0 0 77 correct in window
+0.168831168831 13 77 cut_ins
+340.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 3450_None 1.0
+0.0 0 77 correct in window
+0.155844155844 12 77 cut_ins
+345.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 3500_None 1.0
+0.0 0 77 correct in window
+0.155844155844 12 77 cut_ins
+350.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 3550_None 1.0
+0.0 0 77 correct in window
+0.155844155844 12 77 cut_ins
+355.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 3600_None 1.0
+0.0 0 77 correct in window
+0.142857142857 11 77 cut_ins
+360.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 3650_None 1.0
+0.0 0 77 correct in window
+0.142857142857 11 77 cut_ins
+365.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 3700_None 1.0
+0.0 0 77 correct in window
+0.142857142857 11 77 cut_ins
+370.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 3750_None 1.0
+0.0 0 77 correct in window
+0.142857142857 11 77 cut_ins
+375.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 3800_None 1.0
+0.0 0 77 correct in window
+0.142857142857 11 77 cut_ins
+380.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 3850_None 1.0
+0.0 0 77 correct in window
+0.142857142857 11 77 cut_ins
+385.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 3900_None 1.0
+0.0 0 77 correct in window
+0.142857142857 11 77 cut_ins
+390.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 3950_None 1.0
+0.0 0 77 correct in window
+0.142857142857 11 77 cut_ins
+395.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 4000_None 1.0
+0.0 0 77 correct in window
+0.142857142857 11 77 cut_ins
+400.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 4050_None 1.0
+0.0 0 77 correct in window
+0.142857142857 11 77 cut_ins
+405.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 4100_None 1.0
+0.0 0 77 correct in window
+0.142857142857 11 77 cut_ins
+410.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 4150_None 1.0
+0.0 0 77 correct in window
+0.142857142857 11 77 cut_ins
+415.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 4200_None 1.0
+0.0 0 77 correct in window
+0.12987012987 10 77 cut_ins
+420.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 4250_None 1.0
+0.0 0 77 correct in window
+0.12987012987 10 77 cut_ins
+425.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 4300_None 1.0
+0.0 0 77 correct in window
+0.12987012987 10 77 cut_ins
+430.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 4350_None 1.0
+0.0 0 77 correct in window
+0.12987012987 10 77 cut_ins
+435.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 4400_None 1.0
+0.0 0 77 correct in window
+0.12987012987 10 77 cut_ins
+440.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 4450_None 1.0
+0.0 0 77 correct in window
+0.12987012987 10 77 cut_ins
+445.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 4500_None 1.0
+0.0 0 77 correct in window
+0.12987012987 10 77 cut_ins
+450.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 4550_None 1.0
+0.0 0 77 correct in window
+0.12987012987 10 77 cut_ins
+455.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 4600_None 1.0
+0.0 0 77 correct in window
+0.116883116883 9 77 cut_ins
+460.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 4650_None 1.0
+0.0 0 77 correct in window
+0.116883116883 9 77 cut_ins
+465.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 4700_None 1.0
+0.0 0 77 correct in window
+0.103896103896 8 77 cut_ins
+470.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 4750_None 1.0
+0.0 0 77 correct in window
+0.103896103896 8 77 cut_ins
+475.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 4800_None 1.0
+0.0 0 77 correct in window
+0.103896103896 8 77 cut_ins
+480.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 4850_None 1.0
+0.0 0 77 correct in window
+0.103896103896 8 77 cut_ins
+485.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 4900_None 1.0
+0.0 0 77 correct in window
+0.103896103896 8 77 cut_ins
+490.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 4950_None 1.0
+0.0 0 77 correct in window
+0.103896103896 8 77 cut_ins
+495.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 5000_None 1.0
+0.0 0 77 correct in window
+0.103896103896 8 77 cut_ins
+500.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 5050_None 1.0
+0.0 0 77 correct in window
+0.103896103896 8 77 cut_ins
+505.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 5100_None 1.0
+0.0 0 77 correct in window
+0.103896103896 8 77 cut_ins
+510.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 5150_None 1.0
+0.0 0 77 correct in window
+0.0909090909091 7 77 cut_ins
+515.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 5200_None 1.0
+0.0 0 77 correct in window
+0.0909090909091 7 77 cut_ins
+520.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 5250_None 1.0
+0.0 0 77 correct in window
+0.0909090909091 7 77 cut_ins
+525.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 5300_None 1.0
+0.0 0 77 correct in window
+0.0909090909091 7 77 cut_ins
+530.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 5350_None 1.0
+0.0 0 77 correct in window
+0.0779220779221 6 77 cut_ins
+535.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 5400_None 1.0
+0.0 0 77 correct in window
+0.0779220779221 6 77 cut_ins
+540.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 5450_None 1.0
+0.0 0 77 correct in window
+0.0779220779221 6 77 cut_ins
+545.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 5500_None 1.0
+0.0 0 77 correct in window
+0.0779220779221 6 77 cut_ins
+550.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 5550_None 1.0
+0.0 0 77 correct in window
+0.0779220779221 6 77 cut_ins
+555.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 5600_None 1.0
+0.0 0 77 correct in window
+0.0779220779221 6 77 cut_ins
+560.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 5650_None 1.0
+0.0 0 77 correct in window
+0.0779220779221 6 77 cut_ins
+565.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 5700_None 1.0
+0.0 0 77 correct in window
+0.0649350649351 5 77 cut_ins
+570.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 5750_None 1.0
+0.0 0 77 correct in window
+0.0649350649351 5 77 cut_ins
+575.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 5800_None 1.0
+0.0 0 77 correct in window
+0.0649350649351 5 77 cut_ins
+580.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 5850_None 1.0
+0.0 0 77 correct in window
+0.0649350649351 5 77 cut_ins
+585.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 5900_None 1.0
+0.0 0 77 correct in window
+0.0519480519481 4 77 cut_ins
+590.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 5950_None 1.0
+0.0 0 77 correct in window
+0.0519480519481 4 77 cut_ins
+595.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode baseline 6000_None 1.0
+0.0 0 77 correct in window
+0.0519480519481 4 77 cut_ins
+600.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 50_1 1.0
+0.194805194805 15 77 correct in window
+0.805194805195 62 77 cut_ins
+5.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 50_1 1.0
+0.194805194805 15 77 correct in window
+0.805194805195 62 77 cut_ins
+5.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 50_1 1.0
+0.194805194805 15 77 correct in window
+0.805194805195 62 77 cut_ins
+5.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 100_3 1.0
+0.194805194805 15 77 correct in window
+0.805194805195 62 77 cut_ins
+2.53333333333 1.99555060628 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 100_3 1.0
+0.207792207792 16 77 correct in window
+0.792207792208 61 77 cut_ins
+5.0 3.87298334621 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 100_3 1.0
+0.207792207792 16 77 correct in window
+0.792207792208 61 77 cut_ins
+4.0 3.46410161514 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 100_4 1.0
+0.194805194805 15 77 correct in window
+0.805194805195 62 77 cut_ins
+3.0 0.0 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 100_4 1.0
+0.207792207792 16 77 correct in window
+0.792207792208 61 77 cut_ins
+5.625 3.38886042793 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 100_4 1.0
+0.207792207792 16 77 correct in window
+0.792207792208 61 77 cut_ins
+4.75 3.03108891325 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 150_4 1.0
+0.220779220779 17 77 correct in window
+0.779220779221 60 77 cut_ins
+3.70588235294 2.82352941176 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 150_4 1.0
+0.25974025974 20 77 correct in window
+0.74025974026 57 77 cut_ins
+7.2 5.7236352085 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 150_4 1.0
+0.246753246753 19 77 correct in window
+0.753246753247 58 77 cut_ins
+5.52631578947 4.89218948995 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 150_5 1.0
+0.220779220779 17 77 correct in window
+0.779220779221 60 77 cut_ins
+4.64705882353 2.58823529412 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 150_5 1.0
+0.25974025974 20 77 correct in window
+0.74025974026 57 77 cut_ins
+7.3 5.04083326445 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 150_5 1.0
+0.246753246753 19 77 correct in window
+0.753246753247 58 77 cut_ins
+6.31578947368 4.48450703245 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 150_6 1.0
+0.220779220779 17 77 correct in window
+0.779220779221 60 77 cut_ins
+5.58823529412 2.35294117647 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 150_6 1.0
+0.25974025974 20 77 correct in window
+0.74025974026 57 77 cut_ins
+8.0 4.58257569496 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 150_6 1.0
+0.246753246753 19 77 correct in window
+0.753246753247 58 77 cut_ins
+7.10526315789 4.07682457496 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 200_6 1.0
+0.246753246753 19 77 correct in window
+0.753246753247 58 77 cut_ins
+5.78947368421 3.34945317404 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 200_6 1.0
+0.272727272727 21 77 correct in window
+0.727272727273 56 77 cut_ins
+10.0 7.07106781187 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 200_6 1.0
+0.25974025974 20 77 correct in window
+0.74025974026 57 77 cut_ins
+8.75 6.49519052838 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 200_8 1.0
+0.25974025974 20 77 correct in window
+0.74025974026 57 77 cut_ins
+8.3 3.9 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 200_8 1.0
+0.272727272727 21 77 correct in window
+0.727272727273 56 77 cut_ins
+11.3333333333 6.12825877028 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 200_8 1.0
+0.25974025974 20 77 correct in window
+0.74025974026 57 77 cut_ins
+10.25 5.6291651246 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 250_7 1.0
+0.246753246753 19 77 correct in window
+0.753246753247 58 77 cut_ins
+7.0 4.24264068712 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 250_7 1.0
+0.272727272727 21 77 correct in window
+0.727272727273 56 77 cut_ins
+12.3333333333 8.95668589503 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 250_7 1.0
+0.25974025974 20 77 correct in window
+0.74025974026 57 77 cut_ins
+10.75 8.22724133595 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 250_9 1.0
+0.246753246753 19 77 correct in window
+0.753246753247 58 77 cut_ins
+9.78947368421 5.21716748486 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 250_9 1.0
+0.272727272727 21 77 correct in window
+0.727272727273 56 77 cut_ins
+13.6666666667 8.01387685345 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 250_9 1.0
+0.25974025974 20 77 correct in window
+0.74025974026 57 77 cut_ins
+12.25 7.36121593217 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 250_11 1.0
+0.233766233766 18 77 correct in window
+0.766233766234 59 77 cut_ins
+10.8333333333 3.43592135468 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 250_11 1.0
+0.272727272727 21 77 correct in window
+0.727272727273 56 77 cut_ins
+15.0 7.07106781187 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 250_11 1.0
+0.25974025974 20 77 correct in window
+0.74025974026 57 77 cut_ins
+13.75 6.49519052838 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 300_9 1.0
+0.246753246753 19 77 correct in window
+0.753246753247 58 77 cut_ins
+10.3157894737 6.75162850982 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 300_9 1.0
+0.272727272727 21 77 correct in window
+0.727272727273 56 77 cut_ins
+15.3333333333 10.3708994574 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 300_9 1.0
+0.25974025974 20 77 correct in window
+0.74025974026 57 77 cut_ins
+13.5 9.52627944163 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 300_12 1.0
+0.233766233766 18 77 correct in window
+0.766233766234 59 77 cut_ins
+12.0555555556 4.35216704926 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 300_12 1.0
+0.272727272727 21 77 correct in window
+0.727272727273 56 77 cut_ins
+17.3333333333 8.95668589503 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 300_12 1.0
+0.25974025974 20 77 correct in window
+0.74025974026 57 77 cut_ins
+15.75 8.22724133595 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 350_10 1.0
+0.25974025974 20 77 correct in window
+0.74025974026 57 77 cut_ins
+11.6 7.8 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 350_10 1.0
+0.311688311688 24 77 correct in window
+0.688311688312 53 77 cut_ins
+16.5833333333 11.8177714575 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 350_10 1.0
+0.298701298701 23 77 correct in window
+0.701298701299 54 77 cut_ins
+14.652173913 10.724245978 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 350_13 1.0
+0.272727272727 21 77 correct in window
+0.727272727273 56 77 cut_ins
+14.1904761905 6.75150105087 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 350_13 1.0
+0.311688311688 24 77 correct in window
+0.688311688312 53 77 cut_ins
+16.7916666667 9.34067791378 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 350_13 1.0
+0.298701298701 23 77 correct in window
+0.701298701299 54 77 cut_ins
+17.0 9.48683298051 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 350_16 1.0
+0.285714285714 22 77 correct in window
+0.714285714286 55 77 cut_ins
+16.8181818182 5.74959574576 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 350_16 1.0
+0.311688311688 24 77 correct in window
+0.688311688312 53 77 cut_ins
+19.1666666667 8.12232862067 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 350_16 1.0
+0.298701298701 23 77 correct in window
+0.701298701299 54 77 cut_ins
+19.347826087 8.24941998305 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 400_12 1.0
+0.246753246753 19 77 correct in window
+0.753246753247 58 77 cut_ins
+12.5263157895 6.47560946981 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 400_12 1.0
+0.311688311688 24 77 correct in window
+0.688311688312 53 77 cut_ins
+19.4583333333 13.1813604719 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 400_12 1.0
+0.298701298701 23 77 correct in window
+0.701298701299 54 77 cut_ins
+17.3043478261 11.9616589754 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 400_16 1.0
+0.285714285714 22 77 correct in window
+0.714285714286 55 77 cut_ins
+17.2727272727 7.1869946822 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 400_16 1.0
+0.311688311688 24 77 correct in window
+0.688311688312 53 77 cut_ins
+20.2083333333 10.1529107758 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 400_16 1.0
+0.298701298701 23 77 correct in window
+0.701298701299 54 77 cut_ins
+20.4347826087 10.3117749788 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 450_13 1.0
+0.285714285714 22 77 correct in window
+0.714285714286 55 77 cut_ins
+15.0 9.48683298051 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 450_13 1.0
+0.337662337662 26 77 correct in window
+0.662337662338 51 77 cut_ins
+18.3461538462 13.0057452029 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 450_13 1.0
+0.324675324675 25 77 correct in window
+0.675324675325 52 77 cut_ins
+18.6 13.2 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 450_17 1.0
+0.298701298701 23 77 correct in window
+0.701298701299 54 77 cut_ins
+18.5217391304 8.17136870669 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 450_17 1.0
+0.337662337662 26 77 correct in window
+0.662337662338 51 77 cut_ins
+20.4615384615 10.4632351565 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 450_17 1.0
+0.324675324675 25 77 correct in window
+0.675324675325 52 77 cut_ins
+21.8 11.6 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 450_21 1.0
+0.311688311688 24 77 correct in window
+0.688311688312 53 77 cut_ins
+22.0833333333 6.90963497991 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 450_21 1.0
+0.350649350649 27 77 correct in window
+0.649350649351 50 77 cut_ins
+23.7037037037 8.88116948762 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 450_21 1.0
+0.337662337662 26 77 correct in window
+0.662337662338 51 77 cut_ins
+24.8076923077 9.85283727496 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 500_15 1.0
+0.311688311688 24 77 correct in window
+0.688311688312 53 77 cut_ins
+17.0 9.94987437107 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 500_15 1.0
+0.376623376623 29 77 correct in window
+0.623376623377 48 77 cut_ins
+21.4482758621 14.5829049821 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 500_15 1.0
+0.363636363636 28 77 correct in window
+0.636363636364 49 77 cut_ins
+21.7142857143 14.7717325197 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 500_20 1.0
+0.324675324675 25 77 correct in window
+0.675324675325 52 77 cut_ins
+21.48 8.41008917908 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 500_20 1.0
+0.38961038961 30 77 correct in window
+0.61038961039 47 77 cut_ins
+24.1666666667 11.5530178837 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 500_20 1.0
+0.376623376623 29 77 correct in window
+0.623376623377 48 77 cut_ins
+25.4137931034 12.5575015124 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 550_16 1.0
+0.311688311688 24 77 correct in window
+0.688311688312 53 77 cut_ins
+18.3333333333 11.0554159679 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 550_16 1.0
+0.376623376623 29 77 correct in window
+0.623376623377 48 77 cut_ins
+23.275862069 16.2032277579 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 550_16 1.0
+0.363636363636 28 77 correct in window
+0.636363636364 49 77 cut_ins
+23.5714285714 16.413036133 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 550_21 1.0
+0.324675324675 25 77 correct in window
+0.675324675325 52 77 cut_ins
+22.8 9.49526197638 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 550_21 1.0
+0.38961038961 30 77 correct in window
+0.61038961039 47 77 cut_ins
+25.8333333333 13.0437298687 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 550_21 1.0
+0.376623376623 29 77 correct in window
+0.623376623377 48 77 cut_ins
+27.2413793103 14.1778242882 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 550_26 1.0
+0.337662337662 26 77 correct in window
+0.662337662338 51 77 cut_ins
+28.4615384615 9.58456599567 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 550_26 1.0
+0.38961038961 30 77 correct in window
+0.61038961039 47 77 cut_ins
+30.0 11.1803398875 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 550_26 1.0
+0.376623376623 29 77 correct in window
+0.623376623377 48 77 cut_ins
+31.2068965517 12.1524208184 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 600_18 1.0
+0.311688311688 24 77 correct in window
+0.688311688312 53 77 cut_ins
+20.5833333333 11.8845721654 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 600_18 1.0
+0.376623376623 29 77 correct in window
+0.623376623377 48 77 cut_ins
+24.4137931034 16.2428068777 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 600_18 1.0
+0.376623376623 29 77 correct in window
+0.623376623377 48 77 cut_ins
+25.8965517241 17.4184698397 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 600_24 1.0
+0.337662337662 26 77 correct in window
+0.662337662338 51 77 cut_ins
+25.8461538462 9.85936613539 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 600_24 1.0
+0.38961038961 30 77 correct in window
+0.61038961039 47 77 cut_ins
+29.1666666667 13.7890858612 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 600_24 1.0
+0.38961038961 30 77 correct in window
+0.61038961039 47 77 cut_ins
+30.4 14.8 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 650_19 1.0
+0.324675324675 25 77 correct in window
+0.675324675325 52 77 cut_ins
+21.76 12.7507803683 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 650_19 1.0
+0.38961038961 30 77 correct in window
+0.61038961039 47 77 cut_ins
+25.8333333333 17.5158658237 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 650_19 1.0
+0.38961038961 30 77 correct in window
+0.61038961039 47 77 cut_ins
+28.9666666667 19.87877148 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 650_25 1.0
+0.350649350649 27 77 correct in window
+0.649350649351 50 77 cut_ins
+28.5555555556 12.8850569016 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 650_25 1.0
+0.402597402597 31 77 correct in window
+0.597402597403 46 77 cut_ins
+30.6129032258 15.0797394932 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 650_25 1.0
+0.402597402597 31 77 correct in window
+0.597402597403 46 77 cut_ins
+33.2580645161 17.142604428 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 650_31 1.0
+0.337662337662 26 77 correct in window
+0.662337662338 51 77 cut_ins
+32.6923076923 9.32642742537 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 650_31 1.0
+0.415584415584 32 77 correct in window
+0.584415584416 45 77 cut_ins
+35.46875 12.7082266047 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 650_31 1.0
+0.402597402597 31 77 correct in window
+0.597402597403 46 77 cut_ins
+37.9032258065 14.6339306093 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 700_21 1.0
+0.337662337662 26 77 correct in window
+0.662337662338 51 77 cut_ins
+23.8461538462 13.3234677505 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 700_21 1.0
+0.402597402597 31 77 correct in window
+0.597402597403 46 77 cut_ins
+28.064516129 18.3899262113 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 700_21 1.0
+0.402597402597 31 77 correct in window
+0.597402597403 46 77 cut_ins
+31.2903225806 20.9056151562 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 700_28 1.0
+0.337662337662 26 77 correct in window
+0.662337662338 51 77 cut_ins
+30.3076923077 11.4581822655 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 700_28 1.0
+0.402597402597 31 77 correct in window
+0.597402597403 46 77 cut_ins
+33.935483871 15.8153365417 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 700_28 1.0
+0.402597402597 31 77 correct in window
+0.597402597403 46 77 cut_ins
+36.7096774194 17.9788290343 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 750_22 1.0
+0.337662337662 26 77 correct in window
+0.662337662338 51 77 cut_ins
+25.1538461538 14.3893451706 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 750_22 1.0
+0.415584415584 32 77 correct in window
+0.584415584416 45 77 cut_ins
+31.125 21.0768682446 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 750_22 1.0
+0.415584415584 32 77 correct in window
+0.584415584416 45 77 cut_ins
+34.5 23.3826859022 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 750_29 1.0
+0.337662337662 26 77 correct in window
+0.662337662338 51 77 cut_ins
+31.6153846154 12.5240596855 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 750_29 1.0
+0.428571428571 33 77 correct in window
+0.571428571429 44 77 cut_ins
+36.5454545455 18.1276465722 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 750_29 1.0
+0.415584415584 32 77 correct in window
+0.584415584416 45 77 cut_ins
+39.75 20.3515969889 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 750_36 1.0
+0.38961038961 30 77 correct in window
+0.61038961039 47 77 cut_ins
+37.6666666667 9.9777530314 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 750_36 1.0
+0.454545454545 35 77 correct in window
+0.545454545455 42 77 cut_ins
+40.7142857143 13.9970842445 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 750_36 1.0
+0.454545454545 35 77 correct in window
+0.545454545455 42 77 cut_ins
+44.1428571429 16.7965010934 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 800_24 1.0
+0.324675324675 25 77 correct in window
+0.649350649351 50 77 cut_ins
+27.2222222222 14.927809825 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 800_24 1.0
+0.337662337662 26 77 correct in window
+0.584415584416 45 77 cut_ins
+33.6875 22.2478053693 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 800_24 1.0
+0.311688311688 24 77 correct in window
+0.584415584416 45 77 cut_ins
+37.25 24.6817240079 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 800_32 1.0
+0.337662337662 26 77 correct in window
+0.636363636364 49 77 cut_ins
+34.5 12.6194294641 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 800_32 1.0
+0.350649350649 27 77 correct in window
+0.571428571429 44 77 cut_ins
+39.9090909091 18.8990357881 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 800_32 1.0
+0.324675324675 25 77 correct in window
+0.571428571429 44 77 cut_ins
+42.8787878788 20.9989286534 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 850_25 1.0
+0.311688311688 24 77 correct in window
+0.649350649351 50 77 cut_ins
+30.7777777778 19.1704505122 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 850_25 1.0
+0.350649350649 27 77 correct in window
+0.571428571429 44 77 cut_ins
+35.0909090909 23.5273710831 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 850_25 1.0
+0.324675324675 25 77 correct in window
+0.571428571429 44 77 cut_ins
+38.7878787879 26.1415234257 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 850_33 1.0
+0.337662337662 26 77 correct in window
+0.636363636364 49 77 cut_ins
+35.7857142857 13.6495869714 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 850_33 1.0
+0.363636363636 28 77 correct in window
+0.558441558442 43 77 cut_ins
+41.3529411765 20.2046621774 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 850_33 1.0
+0.337662337662 26 77 correct in window
+0.558441558442 43 77 cut_ins
+44.4705882353 22.4816726588 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 850_41 1.0
+0.376623376623 29 77 correct in window
+0.597402597403 46 77 cut_ins
+42.9032258065 11.0551545085 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 850_41 1.0
+0.402597402597 31 77 correct in window
+0.532467532468 41 77 cut_ins
+46.25 15.5623744975 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 850_41 1.0
+0.376623376623 29 77 correct in window
+0.519480519481 40 77 cut_ins
+49.7297297297 18.5248535008 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 900_27 1.0
+0.311688311688 24 77 correct in window
+0.649350649351 50 77 cut_ins
+33.1111111111 20.1132595538 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 900_27 1.0
+0.350649350649 27 77 correct in window
+0.571428571429 44 77 cut_ins
+37.6363636364 24.6844549069 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 900_27 1.0
+0.324675324675 25 77 correct in window
+0.571428571429 44 77 cut_ins
+41.5151515152 27.4271721188 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 900_36 1.0
+0.363636363636 28 77 correct in window
+0.61038961039 47 77 cut_ins
+38.6666666667 13.7194104182 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 900_36 1.0
+0.402597402597 31 77 correct in window
+0.532467532468 41 77 cut_ins
+42.6388888889 19.0206799414 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 900_36 1.0
+0.363636363636 28 77 correct in window
+0.532467532468 41 77 cut_ins
+47.2222222222 22.8656840303 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 950_28 1.0
+0.311688311688 24 77 correct in window
+0.662337662338 51 77 cut_ins
+32.2307692308 18.1199161407 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 950_28 1.0
+0.350649350649 27 77 correct in window
+0.571428571429 44 77 cut_ins
+39.3636363636 26.2272333386 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 950_28 1.0
+0.324675324675 25 77 correct in window
+0.571428571429 44 77 cut_ins
+43.4848484848 29.1413703762 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 950_37 1.0
+0.363636363636 28 77 correct in window
+0.61038961039 47 77 cut_ins
+39.9333333333 14.7171857213 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 950_37 1.0
+0.402597402597 31 77 correct in window
+0.532467532468 41 77 cut_ins
+44.1944444444 20.4040021189 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 950_37 1.0
+0.363636363636 28 77 correct in window
+0.532467532468 41 77 cut_ins
+49.1111111111 24.5286428689 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 950_46 1.0
+0.38961038961 30 77 correct in window
+0.584415584416 45 77 cut_ins
+48.125 12.1030729569 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 950_46 1.0
+0.402597402597 31 77 correct in window
+0.532467532468 41 77 cut_ins
+51.9444444444 17.2915272194 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 950_46 1.0
+0.38961038961 30 77 correct in window
+0.519480519481 40 77 cut_ins
+54.4594594595 19.5829415489 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 1000_30 1.0
+0.311688311688 24 77 correct in window
+0.662337662338 51 77 cut_ins
+34.4615384615 18.9193242058 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 1000_30 1.0
+0.363636363636 28 77 correct in window
+0.558441558442 43 77 cut_ins
+41.5294117647 27.0666229169 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 1000_30 1.0
+0.324675324675 25 77 correct in window
+0.571428571429 44 77 cut_ins
+46.2121212121 30.4270190692 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 1000_40 1.0
+0.376623376623 29 77 correct in window
+0.597402597403 46 77 cut_ins
+42.935483871 14.9858761115 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 1000_40 1.0
+0.402597402597 31 77 correct in window
+0.532467532468 41 77 cut_ins
+47.4722222222 21.0956632077 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 1000_40 1.0
+0.376623376623 29 77 correct in window
+0.519480519481 40 77 cut_ins
+52.1891891892 25.1114680788 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 1050_31 1.0
+0.311688311688 24 77 correct in window
+0.662337662338 51 77 cut_ins
+35.7692307692 19.9852016258 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 1050_31 1.0
+0.363636363636 28 77 correct in window
+0.558441558442 43 77 cut_ins
+43.2352941176 28.5915030812 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 1050_31 1.0
+0.324675324675 25 77 correct in window
+0.571428571429 44 77 cut_ins
+48.1818181818 32.1412173267 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 1050_41 1.0
+0.376623376623 29 77 correct in window
+0.597402597403 46 77 cut_ins
+44.1935483871 15.9685565123 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 1050_41 1.0
+0.402597402597 31 77 correct in window
+0.532467532468 41 77 cut_ins
+49.0277777778 22.4789853853 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 1050_41 1.0
+0.376623376623 29 77 correct in window
+0.519480519481 40 77 cut_ins
+54.0540540541 26.7581217233 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 1050_51 1.0
+0.415584415584 32 77 correct in window
+0.545454545455 42 77 cut_ins
+54.7142857143 15.3967926689 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 1050_51 1.0
+0.402597402597 31 77 correct in window
+0.532467532468 41 77 cut_ins
+57.6388888889 19.0206799414 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 1050_51 1.0
+0.38961038961 30 77 correct in window
+0.519480519481 40 77 cut_ins
+60.4054054054 21.5412357038 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 1100_33 1.0
+0.337662337662 26 77 correct in window
+0.636363636364 49 77 cut_ins
+37.5714285714 20.0880713919 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 1100_33 1.0
+0.363636363636 28 77 correct in window
+0.558441558442 43 77 cut_ins
+45.7647058824 29.7351632045 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 1100_33 1.0
+0.337662337662 26 77 correct in window
+0.558441558442 43 77 cut_ins
+50.3529411765 33.0862352337 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 1100_44 1.0
+0.38961038961 30 77 correct in window
+0.584415584416 45 77 cut_ins
+47.1875 16.2181177622 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 1100_44 1.0
+0.402597402597 31 77 correct in window
+0.532467532468 41 77 cut_ins
+52.3055555556 23.170646474 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 1100_44 1.0
+0.38961038961 30 77 correct in window
+0.519480519481 40 77 cut_ins
+55.6756756757 26.2411416755 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 1150_34 1.0
+0.337662337662 26 77 correct in window
+0.636363636364 49 77 cut_ins
+38.8571428571 21.1182288991 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 1150_34 1.0
+0.376623376623 29 77 correct in window
+0.545454545455 42 77 cut_ins
+47.0571428571 30.9044082451 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 1150_34 1.0
+0.350649350649 27 77 correct in window
+0.545454545455 42 77 cut_ins
+51.7428571429 34.4328272414 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 1150_45 1.0
+0.38961038961 30 77 correct in window
+0.584415584416 45 77 cut_ins
+48.4375 17.1863635988 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 1150_45 1.0
+0.415584415584 32 77 correct in window
+0.519480519481 40 77 cut_ins
+53.5945945946 24.2726177159 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 1150_45 1.0
+0.402597402597 31 77 correct in window
+0.506493506494 39 77 cut_ins
+57.0789473684 27.523560796 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 1150_56 1.0
+0.415584415584 32 77 correct in window
+0.545454545455 42 77 cut_ins
+60.1428571429 16.7965010934 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 1150_56 1.0
+0.415584415584 32 77 correct in window
+0.519480519481 40 77 cut_ins
+63.1081081081 20.5120713092 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 1150_56 1.0
+0.38961038961 30 77 correct in window
+0.506493506494 39 77 cut_ins
+67.6315789474 24.4609474497 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 1200_36 1.0
+0.363636363636 28 77 correct in window
+0.61038961039 47 77 cut_ins
+40.6666666667 21.2027251917 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 1200_36 1.0
+0.415584415584 32 77 correct in window
+0.519480519481 40 77 cut_ins
+46.4864864865 29.058767688 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 1200_36 1.0
+0.376623376623 29 77 correct in window
+0.519480519481 40 77 cut_ins
+53.3783783784 34.9913899459 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 1200_48 1.0
+0.402597402597 31 77 correct in window
+0.571428571429 44 77 cut_ins
+51.4242424242 17.4182598425 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 1200_48 1.0
+0.415584415584 32 77 correct in window
+0.519480519481 40 77 cut_ins
+56.8648648649 24.9563534262 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 1200_48 1.0
+0.402597402597 31 77 correct in window
+0.506493506494 39 77 cut_ins
+60.4473684211 28.2988723677 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 1250_37 1.0
+0.363636363636 28 77 correct in window
+0.597402597403 46 77 cut_ins
+44.6129032258 26.3128539904 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 1250_37 1.0
+0.415584415584 32 77 correct in window
+0.519480519481 40 77 cut_ins
+48.027027027 30.4262391086 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 1250_37 1.0
+0.376623376623 29 77 correct in window
+0.519480519481 40 77 cut_ins
+55.2432432432 36.6380435904 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 1250_49 1.0
+0.415584415584 32 77 correct in window
+0.532467532468 41 77 cut_ins
+56.5555555556 24.1987654006 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 1250_49 1.0
+0.415584415584 32 77 correct in window
+0.519480519481 40 77 cut_ins
+58.4054054054 26.3238248468 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 1250_49 1.0
+0.402597402597 31 77 correct in window
+0.506493506494 39 77 cut_ins
+62.1842105263 29.8494955112 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 1250_61 1.0
+0.415584415584 32 77 correct in window
+0.532467532468 41 77 cut_ins
+67.2222222222 20.4275292343 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 1250_61 1.0
+0.428571428571 33 77 correct in window
+0.506493506494 39 77 cut_ins
+68.5526315789 21.9721083582 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 1250_61 1.0
+0.38961038961 30 77 correct in window
+0.506493506494 39 77 cut_ins
+73.6842105263 26.4993597372 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 1300_39 1.0
+0.376623376623 29 77 correct in window
+0.584415584416 45 77 cut_ins
+46.625 26.8162147776 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 1300_39 1.0
+0.415584415584 32 77 correct in window
+0.519480519481 40 77 cut_ins
+50.4324324324 31.4518426741 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 1300_39 1.0
+0.38961038961 30 77 correct in window
+0.506493506494 39 77 cut_ins
+57.3684210526 37.5067860896 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 1300_52 1.0
+0.415584415584 32 77 correct in window
+0.532467532468 41 77 cut_ins
+59.7777777778 24.8273047617 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 1300_52 1.0
+0.415584415584 32 77 correct in window
+0.519480519481 40 77 cut_ins
+61.6756756757 27.0075605571 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 1300_52 1.0
+0.402597402597 31 77 correct in window
+0.506493506494 39 77 cut_ins
+65.5526315789 30.6248070829 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 1350_40 1.0
+0.376623376623 29 77 correct in window
+0.584415584416 45 77 cut_ins
+48.0 27.9821371593 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 1350_40 1.0
+0.415584415584 32 77 correct in window
+0.519480519481 40 77 cut_ins
+51.972972973 32.8193140947 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 1350_40 1.0
+0.38961038961 30 77 correct in window
+0.506493506494 39 77 cut_ins
+59.2105263158 39.1375159196 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 1350_53 1.0
+0.415584415584 32 77 correct in window
+0.532467532468 41 77 cut_ins
+61.2222222222 26.0843834838 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 1350_53 1.0
+0.415584415584 32 77 correct in window
+0.519480519481 40 77 cut_ins
+63.2162162162 28.3750319777 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 1350_53 1.0
+0.402597402597 31 77 correct in window
+0.506493506494 39 77 cut_ins
+67.2894736842 32.1754302263 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 1350_66 1.0
+0.428571428571 33 77 correct in window
+0.519480519481 40 77 cut_ins
+72.5675675676 21.7361829869 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 1350_66 1.0
+0.441558441558 34 77 correct in window
+0.493506493506 38 77 cut_ins
+73.9743589744 23.4022650443 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 1350_66 1.0
+0.402597402597 31 77 correct in window
+0.493506493506 38 77 cut_ins
+79.358974359 28.2656692913 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 1400_42 1.0
+0.376623376623 29 77 correct in window
+0.584415584416 45 77 cut_ins
+50.28125 28.8565789455 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 1400_42 1.0
+0.415584415584 32 77 correct in window
+0.519480519481 40 77 cut_ins
+54.3783783784 33.8449176602 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 1400_42 1.0
+0.402597402597 31 77 correct in window
+0.506493506494 39 77 cut_ins
+59.2368421053 38.3779228001 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 1400_56 1.0
+0.415584415584 32 77 correct in window
+0.532467532468 41 77 cut_ins
+64.4444444444 26.7129228448 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 1400_56 1.0
+0.415584415584 32 77 correct in window
+0.519480519481 40 77 cut_ins
+66.4864864865 29.058767688 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 1400_56 1.0
+0.38961038961 30 77 correct in window
+0.506493506494 39 77 cut_ins
+72.8947368421 34.6530088871 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 1450_43 1.0
+0.376623376623 29 77 correct in window
+0.584415584416 45 77 cut_ins
+51.65625 30.0225013271 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 1450_43 1.0
+0.415584415584 32 77 correct in window
+0.519480519481 40 77 cut_ins
+55.9189189189 35.2123890808 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 1450_43 1.0
+0.402597402597 31 77 correct in window
+0.506493506494 39 77 cut_ins
+60.9736842105 39.9285459435 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 1450_57 1.0
+0.415584415584 32 77 correct in window
+0.532467532468 41 77 cut_ins
+65.8888888889 27.9700015669 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 1450_57 1.0
+0.428571428571 33 77 correct in window
+0.506493506494 39 77 cut_ins
+67.7105263158 30.084886829 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 1450_57 1.0
+0.38961038961 30 77 correct in window
+0.506493506494 39 77 cut_ins
+74.7368421053 36.2837387171 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 1450_71 1.0
+0.428571428571 33 77 correct in window
+0.519480519481 40 77 cut_ins
+78.1081081081 23.288767486 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 1450_71 1.0
+0.441558441558 34 77 correct in window
+0.493506493506 38 77 cut_ins
+79.6153846154 25.0738554046 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 1450_71 1.0
+0.402597402597 31 77 correct in window
+0.493506493506 38 77 cut_ins
+85.3846153846 30.2846456693 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 1500_45 1.0
+0.415584415584 32 77 correct in window
+0.545454545455 42 77 cut_ins
+53.0857142857 29.6738185983 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 1500_45 1.0
+0.415584415584 32 77 correct in window
+0.506493506494 39 77 cut_ins
+60.7368421053 38.6520811794 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 1500_45 1.0
+0.415584415584 32 77 correct in window
+0.480519480519 37 77 cut_ins
+65.2 42.4 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 1500_60 1.0
+0.441558441558 34 77 correct in window
+0.506493506494 39 77 cut_ins
+68.5789473684 27.9271906543 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 1500_60 1.0
+0.428571428571 33 77 correct in window
+0.493506493506 38 77 cut_ins
+73.0 32.8329103188 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 1500_60 1.0
+0.402597402597 31 77 correct in window
+0.480519480519 37 77 cut_ins
+79.475 37.9999917763 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 1550_46 1.0
+0.428571428571 33 77 correct in window
+0.532467532468 41 77 cut_ins
+54.1666666667 30.4023939116 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 1550_46 1.0
+0.428571428571 33 77 correct in window
+0.493506493506 38 77 cut_ins
+61.9230769231 39.6881333524 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 1550_46 1.0
+0.428571428571 33 77 correct in window
+0.467532467532 36 77 cut_ins
+66.4634146341 43.5924011956 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 1550_61 1.0
+0.454545454545 35 77 correct in window
+0.493506493506 38 77 cut_ins
+69.7435897436 28.8219271484 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 1550_61 1.0
+0.441558441558 34 77 correct in window
+0.480519480519 37 77 cut_ins
+74.25 33.9217850356 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 1550_61 1.0
+0.415584415584 32 77 correct in window
+0.467532467532 36 77 cut_ins
+80.8536585366 39.3220356367 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 1550_76 1.0
+0.493506493506 38 77 correct in window
+0.454545454545 35 77 cut_ins
+82.619047619 23.4834819161 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 1550_76 1.0
+0.454545454545 35 77 correct in window
+0.467532467532 36 77 cut_ins
+86.7073170732 28.2758570657 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 1550_76 1.0
+0.428571428571 33 77 correct in window
+0.454545454545 35 77 cut_ins
+92.1428571429 32.8260722659 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 1600_48 1.0
+0.441558441558 34 77 correct in window
+0.519480519481 40 77 cut_ins
+56.1621621622 30.8444340009 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 1600_48 1.0
+0.454545454545 35 77 correct in window
+0.467532467532 36 77 cut_ins
+63.5365853659 39.9396481054 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 1600_48 1.0
+0.454545454545 35 77 correct in window
+0.441558441558 34 77 cut_ins
+68.023255814 43.9732944178 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 1600_64 1.0
+0.454545454545 35 77 correct in window
+0.493506493506 38 77 cut_ins
+72.9487179487 29.4287045621 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 1600_64 1.0
+0.467532467532 36 77 correct in window
+0.454545454545 35 77 cut_ins
+76.8571428571 33.9429292929 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 1600_64 1.0
+0.441558441558 34 77 correct in window
+0.441558441558 34 77 cut_ins
+83.3023255814 39.4606279395 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 1650_49 1.0
+0.454545454545 35 77 correct in window
+0.493506493506 38 77 cut_ins
+60.0 35.4964786986 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 1650_49 1.0
+0.454545454545 35 77 correct in window
+0.467532467532 36 77 cut_ins
+65.1219512195 41.3534409586 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 1650_49 1.0
+0.454545454545 35 77 correct in window
+0.441558441558 34 77 cut_ins
+69.7674418605 45.5298712114 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 1650_65 1.0
+0.467532467532 36 77 correct in window
+0.480519480519 37 77 cut_ins
+74.1 30.3 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 1650_65 1.0
+0.480519480519 37 77 correct in window
+0.441558441558 34 77 cut_ins
+78.0930232558 34.9968862093 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 1650_65 1.0
+0.454545454545 35 77 correct in window
+0.428571428571 33 77 cut_ins
+84.6590909091 40.7402766882 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 1650_81 1.0
+0.0 0 77 correct in window
+0.454545454545 35 77 cut_ins
+88.0952380952 24.9511995358 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 1650_81 1.0
+0.0 0 77 correct in window
+0.441558441558 34 77 cut_ins
+91.8604651163 29.4528250276 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 1650_81 1.0
+0.0 0 77 correct in window
+0.428571428571 33 77 cut_ins
+97.3863636364 34.2863714702 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 1700_51 1.0
+0.454545454545 35 77 correct in window
+0.493506493506 38 77 cut_ins
+62.3076923077 36.4066448191 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 1700_51 1.0
+0.454545454545 35 77 correct in window
+0.467532467532 36 77 cut_ins
+67.5609756098 42.4137855986 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 1700_51 1.0
+0.454545454545 35 77 correct in window
+0.441558441558 34 77 cut_ins
+72.3255813953 46.6973038066 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 1700_68 1.0
+0.467532467532 36 77 correct in window
+0.480519480519 37 77 cut_ins
+77.3 30.9 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 1700_68 1.0
+0.480519480519 37 77 correct in window
+0.441558441558 34 77 cut_ins
+81.3720930233 35.689893857 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 1700_68 1.0
+0.454545454545 35 77 correct in window
+0.428571428571 33 77 cut_ins
+88.0681818182 41.5470148404 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 1750_52 1.0
+0.454545454545 35 77 correct in window
+0.493506493506 38 77 cut_ins
+63.7179487179 37.6201996464 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 1750_52 1.0
+0.454545454545 35 77 correct in window
+0.467532467532 36 77 cut_ins
+69.1463414634 43.8275784519 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 1750_52 1.0
+0.454545454545 35 77 correct in window
+0.441558441558 34 77 cut_ins
+74.0697674419 48.2538806001 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 1750_69 1.0
+0.467532467532 36 77 correct in window
+0.480519480519 37 77 cut_ins
+78.7 32.1 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 1750_69 1.0
+0.480519480519 37 77 correct in window
+0.441558441558 34 77 cut_ins
+82.9302325581 37.0759091525 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 1750_69 1.0
+0.454545454545 35 77 correct in window
+0.428571428571 33 77 cut_ins
+89.8863636364 43.1604911449 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 1750_86 1.0
+0.0 0 77 correct in window
+0.428571428571 33 77 cut_ins
+93.1818181818 25.8731808559 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 1750_86 1.0
+0.0 0 77 correct in window
+0.415584415584 32 77 cut_ins
+97.0 30.5941170816 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 1750_86 1.0
+0.0 0 77 correct in window
+0.38961038961 30 77 cut_ins
+100.319148936 33.82376502 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 1800_54 1.0
+0.454545454545 35 77 correct in window
+0.493506493506 38 77 cut_ins
+66.0256410256 38.5303657669 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 1800_54 1.0
+0.454545454545 35 77 correct in window
+0.467532467532 36 77 cut_ins
+71.5853658537 44.8879230919 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 1800_54 1.0
+0.454545454545 35 77 correct in window
+0.441558441558 34 77 cut_ins
+76.6279069767 49.4213131953 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 1800_72 1.0
+0.493506493506 38 77 correct in window
+0.454545454545 35 77 cut_ins
+81.380952381 31.9962441106 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 1800_72 1.0
+0.506493506494 39 77 correct in window
+0.415584415584 32 77 cut_ins
+85.5333333333 37.0528751321 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 1800_72 1.0
+0.480519480519 37 77 correct in window
+0.402597402597 31 77 cut_ins
+92.3260869565 43.2405075523 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 1850_55 1.0
+0.454545454545 35 77 correct in window
+0.493506493506 38 77 cut_ins
+67.4358974359 39.7439205942 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 1850_55 1.0
+0.454545454545 35 77 correct in window
+0.467532467532 36 77 cut_ins
+73.1707317073 46.3017159451 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 1850_55 1.0
+0.467532467532 36 77 correct in window
+0.428571428571 33 77 cut_ins
+77.8181818182 50.5259936375 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 1850_73 1.0
+0.506493506494 39 77 correct in window
+0.441558441558 34 77 cut_ins
+82.511627907 32.8225476195 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 1850_73 1.0
+0.506493506494 39 77 correct in window
+0.415584415584 32 77 cut_ins
+87.0666666667 38.4126136691 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 1850_73 1.0
+0.493506493506 38 77 correct in window
+0.38961038961 30 77 cut_ins
+93.6382978723 44.4624754682 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 1850_91 1.0
+0.0 0 77 correct in window
+0.402597402597 31 77 cut_ins
+98.2608695652 26.7682767978 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 1850_91 1.0
+0.0 0 77 correct in window
+0.38961038961 30 77 cut_ins
+102.127659574 31.7024846474 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 1850_91 1.0
+0.0 0 77 correct in window
+0.350649350649 27 77 cut_ins
+105.2 34.8275752817 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 1900_57 1.0
+0.467532467532 36 77 correct in window
+0.480519480519 37 77 cut_ins
+69.4 40.2 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 1900_57 1.0
+0.480519480519 37 77 correct in window
+0.441558441558 34 77 cut_ins
+74.6976744186 46.4315123965 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 1900_57 1.0
+0.467532467532 36 77 correct in window
+0.415584415584 32 77 cut_ins
+82.8 53.6 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 1900_76 1.0
+0.519480519481 40 77 correct in window
+0.428571428571 33 77 cut_ins
+85.4545454545 33.0601755381 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 1900_76 1.0
+0.506493506494 39 77 correct in window
+0.415584415584 32 77 cut_ins
+90.3333333333 39.0924829375 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 1900_76 1.0
+0.493506493506 38 77 correct in window
+0.38961038961 30 77 cut_ins
+97.0212765957 45.2494219367 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 1950_58 1.0
+0.467532467532 36 77 correct in window
+0.480519480519 37 77 cut_ins
+70.8 41.4 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 1950_58 1.0
+0.480519480519 37 77 correct in window
+0.441558441558 34 77 cut_ins
+76.2558139535 47.8175276919 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 1950_58 1.0
+0.467532467532 36 77 correct in window
+0.415584415584 32 77 cut_ins
+84.6 55.2 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 1950_77 1.0
+0.0 0 77 correct in window
+0.428571428571 33 77 cut_ins
+86.8181818182 34.2100946873 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 1950_77 1.0
+0.0 0 77 correct in window
+0.415584415584 32 77 cut_ins
+91.8666666667 40.4522214745 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 1950_77 1.0
+0.0 0 77 correct in window
+0.38961038961 30 77 cut_ins
+98.7872340426 46.8233148736 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 1950_96 1.0
+0.0 0 77 correct in window
+0.38961038961 30 77 cut_ins
+103.510638298 27.9039937204 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 1950_96 1.0
+0.0 0 77 correct in window
+0.376623376623 29 77 cut_ins
+107.5 33.0718913883 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 1950_96 1.0
+0.0 0 77 correct in window
+0.324675324675 25 77 cut_ins
+110.384615385 36.0801212294 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 2000_60 1.0
+0.480519480519 37 77 correct in window
+0.467532467532 36 77 cut_ins
+72.756097561 41.8375374035 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 2000_60 1.0
+0.493506493506 38 77 correct in window
+0.428571428571 33 77 cut_ins
+78.2272727273 48.3875752442 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 2000_60 1.0
+0.480519480519 37 77 correct in window
+0.402597402597 31 77 cut_ins
+86.5869565217 55.9349684851 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 2000_80 1.0
+0.0 0 77 correct in window
+0.415584415584 32 77 cut_ins
+89.7555555556 34.4345792324 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 2000_80 1.0
+0.0 0 77 correct in window
+0.402597402597 31 77 cut_ins
+94.7826086957 40.7505204253 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 2000_80 1.0
+0.0 0 77 correct in window
+0.376623376623 29 77 cut_ins
+101.6875 47.2277973629 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 2500_75 1.0
+0.558441558442 43 77 correct in window
+0.38961038961 30 77 cut_ins
+88.9787234043 49.111028948 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 2500_75 1.0
+0.571428571429 44 77 correct in window
+0.350649350649 27 77 cut_ins
+95.12 57.1932303686 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 2500_75 1.0
+0.558441558442 43 77 correct in window
+0.324675324675 25 77 cut_ins
+104.461538462 66.5832219391 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 2500_100 1.0
+0.0 0 77 correct in window
+0.337662337662 26 77 cut_ins
+110.843137255 40.5962292024 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 2500_100 1.0
+0.0 0 77 correct in window
+0.298701298701 23 77 cut_ins
+115.777777778 47.4547217596 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 2500_100 1.0
+0.0 0 77 correct in window
+0.25974025974 20 77 cut_ins
+122.842105263 55.0609835669 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 3000_90 1.0
+0.0 0 77 correct in window
+0.350649350649 27 77 cut_ins
+105.88 57.2428650576 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 3000_90 1.0
+0.0 0 77 correct in window
+0.324675324675 25 77 cut_ins
+113.346153846 67.4114475029 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 3000_90 1.0
+0.0 0 77 correct in window
+0.285714285714 22 77 cut_ins
+119.690909091 74.3898509029 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 3000_120 1.0
+0.0 0 77 correct in window
+0.298701298701 23 77 cut_ins
+135.759259259 52.4647801387 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 3000_120 1.0
+0.0 0 77 correct in window
+0.25974025974 20 77 cut_ins
+134.877192982 51.2024088576 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 3000_120 1.0
+0.0 0 77 correct in window
+0.233766233766 18 77 cut_ins
+140.474576271 58.5298289683 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 3500_105 1.0
+0.0 0 77 correct in window
+0.298701298701 23 77 cut_ins
+126.777777778 71.3057232825 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 3500_105 1.0
+0.0 0 77 correct in window
+0.272727272727 21 77 cut_ins
+125.964285714 70.1483031782 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 3500_105 1.0
+0.0 0 77 correct in window
+0.220779220779 17 77 cut_ins
+132.7 78.9715771655 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 3500_140 1.0
+0.0 0 77 correct in window
+0.233766233766 18 77 cut_ins
+164.033898305 68.2309055929 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 3500_140 1.0
+0.0 0 77 correct in window
+0.233766233766 18 77 cut_ins
+156.881355932 58.7641320171 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 3500_140 1.0
+0.0 0 77 correct in window
+0.194805194805 15 77 cut_ins
+162.822580645 66.7761122523 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 4000_120 1.0
+0.0 0 77 correct in window
+0.272727272727 21 77 cut_ins
+149.107142857 86.9118351655 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 4000_120 1.0
+0.0 0 77 correct in window
+0.25974025974 20 77 cut_ins
+143.649122807 79.4910325359 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 4000_120 1.0
+0.0 0 77 correct in window
+0.220779220779 17 77 cut_ins
+151.783333333 90.2073706646 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 4000_160 1.0
+0.0 0 77 correct in window
+0.194805194805 15 77 cut_ins
+190.096774194 80.7917892821 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 4000_160 1.0
+0.0 0 77 correct in window
+0.207792207792 16 77 cut_ins
+178.754098361 66.1098578343 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 4000_160 1.0
+0.0 0 77 correct in window
+0.181818181818 14 77 cut_ins
+185.777777778 75.7389930071 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 4500_135 1.0
+0.0 0 77 correct in window
+0.233766233766 18 77 cut_ins
+171.491525424 102.184673779 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 4500_135 1.0
+0.0 0 77 correct in window
+0.220779220779 17 77 cut_ins
+160.333333333 87.337786146 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 4500_135 1.0
+0.0 0 77 correct in window
+0.194805194805 15 77 cut_ins
+169.677419355 100.005931146 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 4500_180 1.0
+0.0 0 77 correct in window
+0.194805194805 15 77 cut_ins
+218.338709677 95.4633764514 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 4500_180 1.0
+0.0 0 77 correct in window
+0.220779220779 17 77 cut_ins
+201.583333333 74.9004431822 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 4500_180 1.0
+0.0 0 77 correct in window
+0.181818181818 14 77 cut_ins
+209.111111111 85.1670834229 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 5000_150 1.0
+0.0 0 77 correct in window
+0.233766233766 18 77 cut_ins
+190.644067797 113.502596508 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 5000_150 1.0
+0.0 0 77 correct in window
+0.220779220779 17 77 cut_ins
+178.25 97.0112751179 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 5000_150 1.0
+0.0 0 77 correct in window
+0.194805194805 15 77 cut_ins
+188.629032258 111.082537443 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 5000_200 1.0
+0.0 0 77 correct in window
+0.194805194805 15 77 cut_ins
+242.693548387 106.031277904 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 5000_200 1.0
+0.0 0 77 correct in window
+0.207792207792 16 77 cut_ins
+223.672131148 82.5687436022 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 5000_200 1.0
+0.0 0 77 correct in window
+0.181818181818 14 77 cut_ins
+227.666666667 88.3566007092 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 5500_165 1.0
+0.0 0 77 correct in window
+0.194805194805 15 77 cut_ins
+220.032258065 135.973665351 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 5500_165 1.0
+0.0 0 77 correct in window
+0.220779220779 17 77 cut_ins
+196.166666667 106.68476409 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 5500_165 1.0
+0.0 0 77 correct in window
+0.168831168831 13 77 cut_ins
+206.21875 120.474124394 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 5500_220 1.0
+0.0 0 77 correct in window
+0.181818181818 14 77 cut_ins
+266.285714286 115.825872123 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 5500_220 1.0
+0.0 0 77 correct in window
+0.194805194805 15 77 cut_ins
+245.693548387 90.1277925539 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 5500_220 1.0
+0.0 0 77 correct in window
+0.168831168831 13 77 cut_ins
+250.03125 96.4800770804 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 6000_180 1.0
+0.0 0 77 correct in window
+0.181818181818 14 77 cut_ins
+239.142857143 147.319311673 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 6000_180 1.0
+0.0 0 77 correct in window
+0.207792207792 16 77 cut_ins
+213.508196721 115.486515138 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 6000_180 1.0
+0.0 0 77 correct in window
+0.168831168831 13 77 cut_ins
+225.046875 131.397943963 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acoustic 6000_240 1.0
+0.0 0 77 correct in window
+0.168831168831 13 77 cut_ins
+289.765625 125.495983774 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode lm 6000_240 1.0
+0.0 0 77 correct in window
+0.194805194805 15 77 cut_ins
+268.112903226 98.2964746585 latency
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Mode acousticlm 6000_240 1.0
+0.0 0 77 correct in window
+0.168831168831 13 77 cut_ins
+272.84375 105.224494943 latency

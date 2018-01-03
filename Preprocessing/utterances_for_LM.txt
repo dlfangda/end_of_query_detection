@@ -1,0 +1,934 @@
+2 100 es ist ge:lb MTP nur ein verikaler Balken
+2 101 es ist unten links
+2 102 es befindet sich oben li:nks MTP ein großes Quadrat MTP und dadrauf ein kleines Quadrat MTP links MTP rot
+2 103 ähm es ist dunkelblau MTP ein horizontaler Balken MTP mit MTP oben rechts MTP einem kleinen MTP nein falsch MTP ein vertikaler Balken MTP mit oben rechts einem kleinen horizontalen Balken MTP und es befindet sich rechts unten
+2 104 unten re:chts MTP das Rechte
+2 105 es ist hellblau MTP unten re:chts MTP nicht MTP das T
+2 106 okay MTP hm MTP also gelb MTP vertikaler Balken MTP links unten MTP das Obere
+2 107 es ist gelb MTP und hat die Form eines vertikalen Balkens MTP und es befindet sich MTP links unten MTP und zwar das Obere
+2 108 grau MTP Form eines C
+2 12 dieses Zeichen ist MTP ein vertikaler Balken MTP und der i:st MTP hellblau MTP und der befindet sich MTP links unten
+2 13 es i:st ähm MTP pink MTP und MTP hat die Form eines MTP L MTP und es befindet sich rechts oben
+2 14 es ist rot MTP hat die Form eines L MTP und befindet sich MTP rechts unten MTP hm MTP und zwar MTP äh MTP ganz ganz unten
+2 15 hm MTP es ist grau MTP und MTP besteht aus MTP einem MTP großen Quadrat MTP und darüber MTP auf der linken Seite MTP ein kleineres Quadrat MTP und es ist rechts unten
+2 16 es hat die Form eines MTP T: MTP das heißt MTP vertikaler Balken MTP und darüber ein horizontaler Balken MTP mittig MTP und es ist gelb
+2 17 es ist rot MTP hat die Form eines MTP S MTP und befindet sich MTP links oben MTP und zwar MTP das Linke
+2 18 es ist ge:lb MTP hat die Form eines Kreu:z
+2 2 hm MTP so das MTP Zeichen ist blau MTP du:nkelblau MTP und MTP wie ein Kreu:z MTP u:nd ist auch MTP unten rechts
+2 20 ähm MTP es ist rot MTP und hat die Form eines MTP C
+2 22 es ist hellblau MTP und MTP hat die Form eines MTP vertikalen MTP Balkens MTP und es befindet sich rechts oben
+2 23 ähm MTP es ist grün MTP und hat die Form eines MTP L MTP und es befindet sich MTP rechts oben
+2 25 es ist rot MTP hat die Form eines Kreuzes MTP und befindet sich MTP links oben MTP das Untere
+2 26 ja MTP es ist hellblau MTP ein MTP großes Quadrat MTP und darauf MTP links MTP ein kleines Quadrat MTP und es ist MTP rechts unten
+2 27 es ist gelb MTP hat die Form eines T:
+2 28 es ist grü:n MTP und MTP es befindet sich MTP links unten
+2 29 es i:st MTP hm pink MTP hat die Form eines MTP S MTP und ist MTP rechts unten
+2 3 hm MTP das Zeichen ist grau: MTP u:nd MTP hat die Form eines MTP C: MTP und befindet sich oben rechts
+2 30 es ist ro:t MTP und befindet sich links oben MTP da
+2 31 es ist ge:lb MTP ein vertikaler Balken MTP mit MTP rechts oben MTP einem Quadrat MTP und es MTP ist MTP in der Ecke MTP rechts unten
+2 32 es ist dunkelblau MTP und hat die Form eines MTP T
+2 33 hm MTP es ist grau
+2 35 es ist ge:lb MTP und hat die Form eines MTP C
+2 36 es ist grau
+2 37 es ist pi:nk MTP hat die Form eines T: MTP und ist
+2 39 ähm MTP es ist pink MTP hat die Form eines L MTP und es ist MTP links unten
+2 4 hm MTP das Zeichen ist grün MTP ist geformt wie ein L: MTP u:nd MTP
+2 43 es ist ge:lb MTP links unten
+2 44 es ist dunkelblau MTP ein MTP und sieht aus wie ein MTP kleines B: MTP rechts unten
+2 45 es ist MTP hellblau MTP und hat die Form eines L:
+2 46 es ist ge:lb MTP und hat die Form eines MTP S
+2 49 es ist ro:t MTP oben rechts MTP und hat die Form eines C MTP das Obere
+2 5 hm MTP dieses Zeichen ist MTP grau MTP und geformt wie ein T MTP und befindet sich MTP oben rechts
+2 50 es ist grau MTP unten rechts
+2 52 ge:lb MTP sieht aus wie ein T:
+2 53 gra:u MTP hat die Form eines S: MTP unten links
+2 54 es ist MTP dunkelblau MTP und sieht aus wie ein Kreuz
+2 56 es ist ge:lb MTP sieht aus wie ein T: MTP o:ben rechts
+2 57 es ist pink MTP u:nten: links
+2 58 es ist hellblau MTP o:ben rechts MTP und ähm MTP ganz unten
+2 6 ähm das Zeichen ist hellblau MTP und ist ein Strich mit MTP oben rechts MTP einem Kästchen MTP und befindet sich unten links
+2 61 es ist pink MTP und nur ein MTP vertikaler Balken
+2 63 es ist rot MTP es ist ein vertikaler Ba:lken MTP unten li:nks MTP ganz unten links
+2 64 es ist hellblau MTP oben MTP links
+2 65 es ist gra:u MTP oben links MTP das u:ntere T
+2 66 es ist dunkelblau MTP unten rechts MTP das Untere
+2 67 es ist grü:n MTP und es hat die Form eines L
+2 69 es ist hellbla:u MTP u:nten links MTP ganz unten links
+2 7 ok ähm dieses Zeichen MTP ist nur ein MTP vertikaler Balken MTP und er ist blau MTP und befindet sich oben links
+2 70 es ist grü:n MTP rechts o:ben MTP hat die Form eines T:
+2 71 es ist pink MTP sieht aus wie ein Kreuz MTP rechts unten MTP das Linke
+2 72 es ist grün
+2 75 es ist grau MTP rechts
+2 76 es ist grü:n MTP links oben MTP und sieht aus wie ein MTP Strich
+2 77 es ist dunkelblau: MTP rechts o:ben MTP das Untere
+2 8 ok dieses Zeichen ist gelb MTP ein vertikaler Balken MTP mit MTP einem horizontalen Balken MTP nach rechts MTP und es ist MTP da MTP mhm MTP der
+2 82 grü:n MTP L:
+2 83 es ist grü:n MTP sieht aus wie ein L: MTP unten re:chts MTP das U:ntere
+2 84 oh MTP es ist hellblau
+2 85 unten links
+2 86 hm MTP es ist pink MTP und hat die Form eines L:
+2 87 es ist hellblau
+2 88 es ist grü:n MTP und befindet sich links unten
+2 89 links unten MTP grue:n
+2 9 ähm MTP das Zeichen ist MTP rot MTP und sieht aus wie ein Kreuz
+2 90 nu:r MTP ein grader MTP Strich MTP hellblau
+2 91 es ist rot MTP und hat die Form eines MTP L MTP links unten
+2 92 ro:t MTP links unten MTP sieht aus wie ein L
+2 93 das ganz oben
+2 94 pink MTP Form eines L: MTP unten links
+2 95 hm MTP es ist rot MTP und hat die Form eines kleinen B:
+2 96 es ist hellblau: MTP und MTP ein Strich
+2 97 links oben
+2 98 unten rechts
+2 99 es ist grau: MTP und MTP hat die Form eines C
+3 100 der rote Strich rechts oben
+3 102 die blaue Form rechts unten in der Ecke
+3 103 die rote Form
+3 104 das gelbe C links oben
+3 105 die gelbe Form MTP das gelbe T links unten
+3 106 das blaue T rechts oben
+3 11 äh:m MTP die einzige rote Form
+3 110 das rote T links oben
+3 111 das gelbe Kreuz rechts unten
+3 114 das: gelbe Kreuz
+3 116 die graue Form rechts oben
+3 117 die rote Form
+3 118 die gelbe Form links unten
+3 120 das rote Kreuz: in der linken unteren Ecke
+3 122 die gelbe Form
+3 123 die blaue Form links oben
+3 126 ähm: MTP die rote Form
+3 127 die rote Form links unten
+3 13 das grüne T links oben
+3 130 die rote Form
+3 132 die rote Form
+3 133 die blaue Form
+3 135 die blaue Form links oben in der Ecke
+3 136 die gelbe Form links unten
+3 137 die blaue Form links unten
+3 138 das rote T rechts unten
+3 139 das graue C rechts unten
+3 14 das rote Kreuz rechts unten
+3 140 der blaue Winkel rechts oben
+3 141 die gelbe Form
+3 143 die gelbe Form rechts unten in der Ecke
+3 144 die grüne Form links unten
+3 145 die graue Form rechts unten
+3 146 die grüne Form links unten
+3 148 das rote Kreuz links oben
+3 150 das graue Kreuz links oben oben
+3 152 die grüne Form links unten
+3 153 die grüne Form in der linken unteren Ecke
+3 154 das grüne Kreuz rechts oben
+3 155 das grüne Kreuz rechts oben
+3 156 die grüne Form in der rechten unteren Ecke
+3 157 die grüne Form rechts unten
+3 158 grüne Form rechts unten in der Ecke
+3 159 die grüne Form in der rechten unteren Ecke
+3 160 die grüne Form rechts unten
+3 161 das blaue Kreuz rechts unten
+3 162 die blaue Form rechts unten in der Ecke
+3 163 das blaue Kreuz rechts unten
+3 164 die hellblaue Form in der rechten unteren Ecke
+3 165 das
+3 166 das Hellblaue in der rechts unteren Ecke
+3 167 das blaue T links oben
+3 168 das blaue T in der linken oberen Ecke
+3 169 da
+3 170 der grüne Strich in der linken oberen Ecke
+3 171 grüne Linie linke obere Ecke MTP Da
+3 172 das blaue T links oben
+3 173 das blaue T links oben
+3 174 das blaue T links oben in der Ecke
+3 175 die rote Form rechts unten
+3 176 die rote Form in der unteren rechten Ecke
+3 177 die blaue Form in der rechten oberen Ecke
+3 178 die blaue Form rechts oben
+3 179 das rote T links oben
+3 180 das dunkelrote äh das rote C links oben
+3 181 die gelbe Form rechts unten
+3 182 die gelbe Form in der rechten unteren Ecke
+3 183 die einzige gelbe Form
+3 184 die grüne Form rechts oben
+3 185 die grüne Form in der rechten oberen Ecke
+3 186 die gelbe Form rechts oben
+3 187 die gelbe Form in der rechten oberen Ecke
+3 188 die Form ganz rechts MTP in rot
+3 189 die rechte rote Form
+3 19 das graue T links oben
+3 190 die violette Form links oben in der Ecke
+3 191 die hellblaue Form links unten MTP in der Ecke
+3 192 der hellblaue Winkel links unten
+3 193 die violette Form links oben in der Ecke
+3 194 die rote Form links oben
+3 195 die rote Form ganz links MTP oben
+3 196 das: MTP obere grüne C
+3 197 das oberste grüne C MTP rechts oben in der Ecke
+3 198 die grüne Form in der rechten oberen Ecke
+3 199 die grüne Form ganz links oben
+3 200 das violette T rechts oben in der Ecke
+3 201 ok MTP äh:m MTP das MTP violette T rechts oben
+3 204 das MTP blaue Kreuz rechts unten
+3 205 das blaue Kreuz rechts unten
+3 206 die dunkelblaue Form rechts unten
+3 207 das blaue C rechts unten in der Ecke
+3 208 das blaue C rechts unten
+3 209 dunkelblaue Form rechts unten in der Ecke
+3 21 die gelbe Form links oben
+3 210 die graue Form ganz rechts in der Ecke MTP oben
+3 211 die graue Form in der rechten oberen Ecke
+3 212 der graue Strich rechts oben
+3 213 grün rechts oben
+3 214 der grüne in der oberen rechten Ecke
+3 215 die hellblaue Form in der linken oberen Ecke
+3 216 das grüne Kreuz links unten
+3 217 da:s grüne Kreuz in der linken Ecke
+3 218 die rote Form links unten
+3 219 die rote Form links unten
+3 22 die blaue Form rechts unten
+3 220 die gelbe Form
+3 221 der gelbe Strich rechts unten in der Ecke
+3 222 die einzige gelbe Form
+3 223 die gelbe Form in der linken oberen Ecke
+3 224 die dunkelblaue Form links oben
+3 225 die einzige blaue Form MTP die einzige dunkelblaue Form
+3 226 die gelbe Form links oben
+3 227 die rote Form rechts unten in der Ecke
+3 228 die rote Form rechts unten
+3 229 die einzige rote Form
+3 230 die blaue Form rechts oben
+3 231 die hellblaue Form in rechten oberen Ecke
+3 232 die blaue Form in der linken oberen Ecke
+3 233 der blaue Winkel links oben MTP da
+3 234 der blaue Winkel links oben
+3 235 die hellblaue Form links oben
+3 236 das blaue Kreuz rechts oben
+3 237 das blaue Kreuz rechts oben
+3 238 die graue Form rechts oben in der Ecke
+3 239 die graue Form rechts oben in der Ecke
+3 24 die blaue Form in de:r links unteren Ecke
+3 240 der graue Winkel rechts oben in der Ecke
+3 241 die violette Form links unten
+3 242 die violette Form links unten
+3 243 die grüne Form links unten in der Ecke
+3 244 de:r grüne Strich links unten
+3 245 der graue Strich rechts unten
+3 246 die graue Form rechts unten in der Ecke
+3 247 das violette T rechts oben in der Ecke
+3 248 das violette T rechts oben
+3 249 die blaue Form in der linken unteren Ecke
+3 250 die: blaue Form links unten
+3 251 das gelbe T rechts oben
+3 252 das gelbe T rechts oben
+3 253 das dunkelblaue C links unten
+3 254 die dunkelblaue Form in der linken unteren Ecke
+3 26 der grüne Kasten ganz rechts oben in der Ecke
+3 27 äh:m MTP das grüne C in der rechts unteren Ecke
+3 29 da:s MTP blaue Kreuz rechts unten
+3 31 das hellblaue T rechts oben
+3 34 die violette Form links unten in der Ecke
+3 39 die: MTP das rote T rechts unten
+3 4 das Blaue in der linken unteren Ecke
+3 43 das rote C links oben
+3 45 das gelbe C rechts unten MTP links unten
+3 46 das: MTP blaue Kreuz rechts unten
+3 47 die gelbe Form links oben
+3 48 die rote Form links unten
+3 5 das gelbe Kreuz rechts oben
+3 50 die blaue Form rechts oben
+3 52 das rote Kreuz rechts unten
+3 55 das graue T rechts unten
+3 57 das blaue T MTP rechts oben
+3 58 die rote Form
+3 59 die blaue Form rechts unten
+3 62 die grüne Form rechts unten
+3 66 die einzige violette Form
+3 67 das blaue C links unten
+3 68 das rote Kreuz links unten
+3 7 der einzige graue
+3 70 das grüne C links unten
+3 72 das graue T
+3 74 die violette Form links unten
+3 75 das graue Kreuz rechts oben
+3 78 die grüne Form rechts oben
+3 80 die grüne Form links unten
+3 85 das gelbe T rechts unten
+3 88 die blaue Form rechts oben
+3 90 das grüne T rechts unten
+3 91 das rote Kreuz links unten
+3 92 das violette C rechts oben
+3 93 das gelbe C links unten
+3 96 das hellblaue Kreuz links oben
+3 99 das violette Kreuz
+4 1 okay MTP ähm also ich hab' mir MTP ein Kreuz ausgesucht MTP äh unten rechts das blaue Kreuz MTP das: sieht jetzt gut aus MTP soll'ich das irgendwie bestätigen oder
+4 10 ähm MTP unten links in Blau MTP ähm MTP das ist wie so ein
+4 100 ähm MTP das hellblaue MTP Kreuz oben links
+4 101 ähm MTP oben rechts das einzige rote Symbol
+4 102 hm: MTP unten links der grüne Winkel MTP hellgrün
+4 104 ähm: MTP oben rechts der Obere von den beiden blauen MTP Strichen
+4 105 oben links das gelbe C
+4 106 unten rechts das MTP rosa MTP T
+4 107 oben MTP links das rote Kreuz
+4 108 unten rechts MTP das MTP rote Kreuz
+4 109 ähm: MTP das gelbe C unten rechts
+4 11 äh MTP oben links der graue MTP Winkel quasi wieder
+4 111 ähm MTP das MTP blaue T unten rechts
+4 114 das einzige rote Symbol oben links
+4 115 ähm: MTP das gelbe Kreuz unten links
+4 116 der graue Strich unten rechts
+4 118 der rote Strich unten links
+4 119 äh: MTP der gelbe Winkel unten links
+4 12 hm MTP oben rechts das MTP rosane Kreuz
+4 120 das rote Kreuz oben links
+4 121 ähm MTP de:r blaue Winkel oben links
+4 123 äh MTP das rote C unten rechts
+4 126 der graue Wickel Winkel oben links
+4 127 ähm: MTP de:r MTP grüne Strich unten rechts
+4 128 das rote T oben links
+4 129 das äh grüne T oben links
+4 13 ähm MTP oben links das blaue T
+4 130 der rote Winkel unten rechts
+4 132 das MTP rote MTP Kreuz oben rechts
+4 133 das rosane T oben rechts
+4 134 ähm: MTP das MTP graue Kreuz unten links
+4 135 der grüne Strich unten links
+4 136 das MTP rote C oben links
+4 137 äh MTP das einzige MTP blaue Symbol oben rechts
+4 138 äh:m MTP das grüne C oben links
+4 139 das gelbe C unten rechts
+4 14 ähm MTP unten links MTP äh MTP einzige MTP gelbe Symbol
+4 141 das gelbe T MTP oben links
+4 142 äh:m MTP das gelbe C unten rechts
+4 143 das rote Symbol unten rechts
+4 144 das graue C oben rechts
+4 145 äh:m MTP das MTP gelbe Symbol oben rechts
+4 146 das grüne C oben links
+4 147 das rote Kreuz oben rechts
+4 148 hm MTP das MTP gelbe Kreuz oben links
+4 149 das graue T unten links
+4 15 äh MTP oben rechts das MTP graue T wieder
+4 150 äh:m MTP das graue Kreuz unten rechts
+4 151 das MTP grüne T oben rechts
+4 152 ähm MTP der blaue Strich oben links MTP der blaue
+4 154 äh:m MTP das graue Kreuz unten links
+4 155 das blaue Kreuz MTP oben rechts
+4 156 ähm MTP das graue C unten links
+4 157 das MTP gelbe Kreuz MTP unten rechts
+4 158 das rote C MTP unten rechts
+4 159 da:s MTP hellblaue Kreuz unten links
+4 16 äh MTP unten rechts das hellgrüne Kreuz
+4 160 der rote Winkel ganz oben rechts
+4 161 das graue T oben links
+4 162 der rosane Strich unten links
+4 163 das hellblaue Kreuz unten rechts
+4 164 das MTP hellblaue T unten links
+4 165 der rote Winkel oben rechts
+4 168 äh:m MTP das blaue T unten links
+4 169 äh MTP das einzige graue Symbol oben rechts
+4 17 ähm MTP oben rechts MTP das einzige rote Symbol der Winkel MTP äh MTP oben rechts MTP das einzige Symbol MTP was MTP rot ist
+4 171 äh:m MTP der gelbe Winkel unten rechts
+4 172 der rote Strich MTP oben rechts
+4 173 äh MTP der graue Winkel oben links
+4 174 das blaue Kreuz oben rechts
+4 175 äh MTP das graue Kreuz unten links
+4 176 das MTP grüne Kreuz oben links
+4 177 äh MTP das blaue C oben rechts
+4 178 das MTP rote Kreuz oben links
+4 179 da:s: MTP blaue Kreuz unten links
+4 18 hm MTP unten rechts das hellblaue Kreuz in der Mitte von den fünf MTP Symbolen
+4 180 das rote T MTP oben: links
+4 181 äh: MTP oben links das gelbe C
+4 182 ähm: MTP oben rechts das graue Kreuz
+4 183 äh MTP oben rechts der hellblaue Winkel
+4 184 oben rechts der äh das rote der rote Strich
+4 185 äh MTP unten links der blaue Strich
+4 186 das rosane Kreuz oben rechts
+4 187 das MTP blaue C oben rechts
+4 188 der rote Strich oben links
+4 189 das graue T MTP unten links
+4 19 das einzige hm Symbol unten rechts MTP in Grau
+4 190 da:s: MTP rosane Kreuz oben links
+4 191 das blaue Kreuz oben rechts
+4 192 äh:m MTP das untere der beiden roten Ts oben rechts MTP das rote T oben rechts allerdings das untere der beiden
+4 193 äh:m MTP der gelbe Winkel oben links
+4 194 das blaue C oben rechts
+4 195 das rote ähm MTP das blaue T unten rechts
+4 196 rotes T oben links
+4 197 ein gelbes Kreuz MTP oben links
+4 199 roter Strich unten links
+4 2 ähm MTP hm ganz oben links hellblau MTP das ist äh MTP eigentlich ein wie ein Kreuz nur dass der eine
+4 20 ähm: MTP ganz oben links MTP ein blaues MTP C
+4 200 das grüne Kreuz oben: rechts
+4 201 äh: MTP der rote Strich oben rechts
+4 202 da: der gelbe Winkel oben links
+4 203 das blaue C unten links
+4 204 äh: MTP das MTP hellblaue T unten rechts
+4 205 der hellblaue Winkel oben rechts
+4 206 das gelbe T oben links
+4 207 äh:m MTP das MTP hellblaue MTP T MTP unten rechts
+4 21 ähm: MTP oben rechts ein gelbes C MTP das einzige gelbe Symbol auf dem ganzen Blatt
+4 210 das blaue Kreuz oben links
+4 211 der rote Strich unten rechts
+4 212 äh MTP das rote Kreuz unten links
+4 213 der blaue Winkel oben rechts
+4 214 das blaue C oben links
+4 215 der rote Winkel unten rechts
+4 216 das rote Kreuz unten links
+4 218 da:s MTP gelbe T ganz unten rechts in der Ecke
+4 22 ähm MTP das Kreuz unten links MTP in MTP Rosa
+4 220 das rote C oben links
+4 221 de:r rote Winkel oben rechts
+4 222 das rote MTP T oben links
+4 223 der rote Winkel unten rechts
+4 224 das gelbe Kreuz unten links
+4 225 äh:m MTP das MTP hellblaue C oben rechts
+4 226 äh: MTP das einzige graue Symbol unten rechts
+4 227 das blaue C unten rechts
+4 228 äh:m MTP der gelbe Winkel unten links
+4 229 das hellblaue T oben rechts
+4 23 ähm MTP das rote MTP C oben links
+4 230 der rote Strich MTP oben rechts
+4 231 das rosane T unten links
+4 232 äh MTP der hellblaue Strich oben links
+4 234 äh:m: MTP der rote Winkel oben rechts
+4 236 ähm: MTP das rosane T oben rechts
+4 237 das: graue Kreuz oben rechts MTP coughing/>
+4 238 das rote C unten rechts
+4 239 das graue Kreuz unten links
+4 24 ähm: MTP unten links der blaue Strich
+4 240 das rote Kreuz oben rechts
+4 242 hm MTP de:r grüne Winkel unten links
+4 244 das rosane T unten rechts
+4 245 das rosane T oben links
+4 247 da:s blaue C unten rechts
+4 248 der rote Winkel unten rechts
+4 249 äh:m MTP das hellblaue T oben links
+4 250 unten rechts MTP grau MTP das MTP C
+4 251 ähm MTP das graue C unten rechts
+4 253 äh:m: MTP das blaue Kreuz oben rechts
+4 26 oben rechts MTP das blaue MTP Kreuz
+4 27 ähm: MTP oben rechts das rote T
+4 28 unten rechts der rote Winkel MTP mh MTP einzige rote Symbol unten rechts
+4 3 ähm MTP in dem Viereck oben rechts da ist ein T so ein grünes T MTP Symbol
+4 30 unten links das graue T MTP grau
+4 31 äh MTP unten rechts das einzige: grüne Symbol
+4 32 hm: MTP unten links das graue T
+4 33 ähm MTP ganz oben rechts das hellgrüne: MTP {äh} der hellgrüne Strich quasi ja
+4 34 hm MTP unten links MTP der blaue Winkel
+4 35 äh MTP ganz oben rechts MTP das graue T
+4 36 ähm MTP unten links MTP das einzige gelbe Symbol auf dem auf dem Bildschirm
+4 37 ähm MTP noch mal unten links das hellgrüne Kreuz
+4 38 ähm MTP oben links MTP das blaue MTP C
+4 39 hm MTP oben rechts MTP das gelbe Kreuz
+4 4 äh wieder oben rechts MTP das einzige Symbol das rot ist MTP so eine Linie
+4 42 ähm MTP unten rechts das einzige rote Symbol auf der: auf dem Bildschirm ?
+4 43 ähm MTP oben links das hellblaue Kreuz
+4 45 ähm MTP unten links das graue T
+4 47 ähm MTP unten rechts der gelbe Winkel
+4 48 ähm MTP oben rechts das einzige hellblaue Symbol MTP ich wüsste nicht wie ich es beschreiben soll aber da es das einzige hellblaue Symbol ist MTP { äh } könnte das ja trotzdem klappen
+4 49 ähm MTP der Winkel unten links MTP in Rot
+4 5 unten links in Hellblau MTP fünf MTP Kästchen MTP ähm MTP am Stück MTP quasi in einer Linie
+4 50 ähm MTP das blaue T oben rechts
+4 51 hm MTP das blaue MTP C oben links MTP in der Ecke
+4 52 der rote Strich oben rechts
+4 54 das MTP einzige Symbol MTP oben links
+4 55 das MTP blaue MTP T MTP unten rechts
+4 56 äh MTP das rote Symbol unten links
+4 58 hm MTP das grüne C MTP oben rechts MTP hellgrünes
+4 59 der gelbe Strich oben rechts
+4 6 ähm MTP oben rechts MTP das ist wie so ein rechter Winkel MTP in MTP hellgrün MTP das ist rechts das Symbol
+4 60 der grüne Strich MTP unten links
+4 61 ähm MTP das MTP blaue C unten rechts
+4 62 ähm MTP der rosane Strich oben rechts
+4 64 das Kreuz das rote Kreuz MTP oben MTP links
+4 65 ähm MTP das gelbe T MTP unten rechts in der Ecke
+4 66 hm MTP das hellgrüne Symbol unten rechts MTP ja
+4 67 hm MTP das gelbe C MTP unten rechts
+4 68 das gelbe T unten links
+4 69 äh MTP der rote Winkel MTP unten rechts allerdings der rechte von den beiden
+4 70 ähm: MTP das MTP grüne T MTP unten rechts MTP hellgrünes T
+4 71 ähm: MTP das hellgrüne Symbol unten links MTP ich wüsst' nicht wie ich's beschreiben soll
+4 72 äh der gelbe MTP der hellblaue Strich oben rechts
+4 73 das blaue Kreuz MTP oben links
+4 74 hm: MTP der blaue Winkel oben rechts
+4 75 das rote C unten links
+4 76 das gelbe C unten links
+4 78 oben links der hell das hellblaue T MTP in Hellblau
+4 79 ähm: MTP oben rechts MTP der einzige Gegenstand das einzige Symbol oben rechts in Blau
+4 8 ähm MTP oben links MTP den hellgrünen MTP die Linie quasi wieder MTP die fünfte MTP Kästchen am Stück
+4 80 ähm: MTP das rote C unten rechts
+4 81 der hellgrüne Strich MTP oben links
+4 84 das rote Symbol unten rechts in der Ecke
+4 85 das MTP rote C unten links in der Ecke
+4 86 ähm: MTP der graue Strich oben rechts
+4 87 äh MTP der rote Winkel unten links
+4 88 das gelbe C unten links
+4 89 ähm: MTP äh MTP das blaue T unten links
+4 9 äh unten rechts: MTP in hellblau MTP was das denn für eine Form MTP das ist die einzige hellblaue Form unten rechts
+4 90 das MTP rote C MTP oben links
+4 91 äh MTP das gelbe Symbol unten rechts MTP ja
+4 92 der gelbe Strich {ähm} der grüne Strich oben rechts
+4 93 das grüne Kreuz unten links
+4 94 das MTP blaue Kreuz MTP oben rechts
+4 96 der blaue Strich unten rechts
+4 97 das MTP gelbe T MTP oben links
+4 98 das rote C oben links
+4 99 ähm: MTP das MTP graue C unten links
+5 10 das einzige gelbe Objekt oben rechts
+5 100 da:s einzige graue Objekt rechts oben MTP mhm
+5 101 das einzige rote Objekt rechts unten
+5 104 da:s einzige: rosa gelbe Objekt ganz oben links
+5 105 da:s einzige grüne Objekt äh rechts unten MTP ganz rechts unten
+5 106 da:s türkisene Objekt ganz links unten MTP das einzelne MTP türkise
+5 107 da:s dunkelblaue links unten
+5 109 da:s grüne ganz unten rechts
+5 111 i:ch suche das einzige grüne Objekt MTP unten rechts
+5 113 das einzige gelbe Objekt unten rechts
+5 115 das MTP türkisfarbene Objekt oben rechts
+5 116 mh: hm hm: MTP das rosane unten rechts
+5 117 da:s einzige gelbe Objekt MTP ja
+5 118 da:s einzige gelbe Objekt
+5 119 das einzige: MTP türkisfarbene Objekt ganz oben links
+5 120 da:s einzige gelbe Objekt oben rechts
+5 121 da:s graue Objekt MTP unten rechts
+5 122 da:s einzige grüne Objekt unten rechts
+5 123 da:s MTP gelbe Objekt unten rechts
+5 127 das einzige grüne Objekt oben rechts
+5 128 das einzige gelbe Objekt links unten
+5 129 das einzige grüne Objekt links unten
+5 13 äh:m MTP das einzige MTP rote längliche Objekt unten rechts in der Mitte
+5 130 das einzige blaue Objekt rechts unten
+5 131 da:s einzige: rote Objekt links oben
+5 132 das einzige rosafarbene rechts unten
+5 133 da:s einzige rote links unten
+5 134 das einzige graue links unten
+5 135 da:s einzige gelbe rechts unten
+5 137 das einzige: türkisfarbene Symbol links unten
+5 138 das einzige gelbe Symbol links oben
+5 14 äh: MTP äh: wieder das einzige rote längliche Objekt oben rechts in der Mitte
+5 140 da:s einzige gelbe Symbol MTP links unten
+5 141 das einzige gelbe Symbol links unten
+5 142 das MTP einzige: grüne Symbol rechts unten
+5 143 das einzige graue Symbol links unten
+5 144 da:s MTP türkise Symbol MTP hmm: MTP ganz links
+5 145 da:s einzige graue Symbol MTP links unten
+5 146 da:s MTP lila Symbol rechts oben
+5 147 das MTP graue Symbol links unten
+5 148 das einzige grüne Symbol rechts oben
+5 149 das rote Symbol rechts oben MTP das einzige rote
+5 15 hm: MTP das einzige gelbe Objekt
+5 150 das einzige gelbe rechts oben
+5 151 da:s einzige grüne rechts unten
+5 152 da:s einzige: rosafarbene ganz oben rechts MTP oder oben rechts das MTP lila
+5 153 ähm MTP das gelbe unten rechts
+5 154 da:s rote oben rechts
+5 155 da:s gelbe unten links
+5 156 das links MTP rosa oben links
+5 157 da:s graue oben links
+5 158 da:s MTP einzige: rosafarbene oben rechts
+5 159 da:s grüne Symbol rechts unten
+5 16 hm: MTP das einzige dunkelblaue Objekt unten rechts in der Ecke
+5 160 da:s rosa Symbol rechts oben
+5 161 da:s MTP einzige grüne Symbol rechts oben
+5 162 da:s MTP graue Symbol links unten
+5 163 das graue Symbol rechts oben
+5 164 das graue Symbol rechts oben
+5 165 das einzige rote Symbol rechts oben
+5 166 hm: MTP hm: MTP das graue Element was zwei bei zwei rosafarbenen dabei ist
+5 167 und sonst keine andere Farbe hat MTP oben links
+5 168 das einzige gelbe Element unten rechts
+5 169 oder: MTP ja MTP das einzige gelbe Element unten rechts bei den zwei türkisfarbenen
+5 170 hm: MTP das Objekt mit der Farbe unten MTP im unteren rechten: MTP Quadranten was nicht zu den anderen Farben passt
+5 171 das graue Objekt unten rechts
+5 172 da:s MTP rote Objekt oben rechts
+5 173 das dunkelblaue Symbol rechts oben MTP einzige blaue
+5 174 äh:m: MTP das grüne Objekt oben links in der Ecke
+5 175 das grüne Objekt das aussieht wie ein T oben links in der Ecke
+5 176 das einzige dunkelblaue rechts oben
+5 177 dunkelblau
+5 178 das unterste gelbe Objekt unten rechts in der Ecke
+5 179 äh: MTP hm hm hm MTP hm: MTP das gelbe Objekt unten rechts in der Ecke
+5 18 MTP das einzige grüne Objekt MTP oben links
+5 180 da:s MTP einzige: MTP blaue Objekt unten rechts
+5 181 im rechten
+5 182 das graue Objekt oben rechts
+5 2 hmm MTP das MTP graue lange unten links in der Ecke
+5 21 hm: MTP hm: MTP das gelbe Kreuz oben rechts
+5 23 hm: MTP hm das einzige grüne Kreuz unten rechts MTP hm:
+5 25 hm: MTP das linke MTP das graue Objekt links unten bitte
+5 26 das grüne Objekt MTP das einzige grüne unten links unten
+5 27 äh:m MTP das einzige gelbe Objekt MTP rechts unten
+5 28 äh: MTP das einzige rote Objekt rechts unten
+5 3 hmm: MTP das einzige: MTP lilafarbene MTP Objekt rechts
+5 30 das einzige graue Objekt rechts MTP unten
+5 31 hm MTP hm: MTP das einzige rosa Objekt rechts unten
+5 34 das grüne im vierten MTP im unteren rechten Bildabschnitt Bildrand MTP hm
+5 35 das: gelbe im unteren rechten Bildrand
+5 36 da:s MTP grüne blaue oben links
+5 37 da:s einzige rote oben rechts unten rechts
+5 38 hm: MTP das einzige rote oben MTP nee das rote oben rechts
+5 39 hm: MTP das einzige gelbe Objekt MTP unten rechts
+5 4 ä:hm das einzige rote längliche Objekt unten rechts
+5 42 okay MTP das blaue rechts oben MTP das einzige blaue
+5 43 da:s gelbe Objekt oben links MTP das Objekt oben links
+5 44 da:s einzige dunkelblaue Objekt unten rechts
+5 45 da:s einzige gelbe Objekt unten rechts
+5 46 da:s: MTP rote Objekt unten rechts
+5 47 das rote Objekt oben rechts
+5 48 hm: MTP das gelbe Objekt MTP oben links
+5 5 hmm: MTP das gelbe Objekt unten rechts
+5 50 hm: MTP das einzige blaue Objekt links unten
+5 51 da:s einzige gelbe Objekt links unten
+5 52 das einzige grüne Objekt rechts oben
+5 54 äh: MTP das rosane oben links
+5 56 da:s MTP graue Objekt was oben links alleine ist
+5 57 das einzige grüne Objekt MTP oben links
+5 58 da:s einzige grüne Objekt unten links
+5 59 da:s einzige rote Objekt unten links
+5 6 hmm: MTP das lila Objekt oben rechts
+5 60 da:s MTP rote das rote Element oben links in der Ecke
+5 61 da:s MTP gelbe Element oben rechts
+5 62 da:s MTP graue einzige graue Element MTP oben rechts
+5 64 da MTP s einzige rote Objekt auf der rechten Seite
+5 65 da:s einzige: türkisfarbene Objekt auf der rechten Seite MTP unten
+5 69 da:s einzige rote MTP rote graue Objekt oben links
+5 7 hmm: MTP das einizige dunkelblaue Objekt MTP unten rechts
+5 70 da:s einzige graue Objekt oben rechts
+5 71 da:s einzige graue Objekt oben rechts
+5 72 da:s MTP rote Objekt unten links
+5 73 das graue Objekt oben rechts
+5 77 da:s blaue Objekt auf der linken Seite
+5 78 da:s graue das einzige graue Objekt auf der rechten Seite
+5 79 da:s MTP einzige gelbe MTP Objekt auf der rechten Seite
+5 8 ö:h das einzige grüne Objekt oben rechts
+5 80 da:s einzige grüne Objekt auf der rechten Seite
+5 81 da:s MTP einzige: rosafarbene MTP unten links MTP oder pink ja
+5 84 das einzige Objekt grüne Objekt oben links
+5 86 das einzige dunkelblaue Objekt auf der linken Seite
+5 87 das einzige: blaue Objekt auf der linken Seite unten links
+5 88 da:s einzige: MTP graue oben rechts
+5 9 hm: MTP das einzige blaue Objekt unten rechts
+5 90 hm: MTP das einzige rote Objekt oben links
+5 91 das MTP grüne Objekt unten links
+5 92 da:s MTP rote Objekt oben rechts
+5 94 da:s MTP einzige rosafarbene links unten
+5 95 da:s einzige graue MTP links oben
+5 96 da:s graue rechts unten MTP das graue Objekt
+5 97 das rote Objekt rechts MTP unten
+6 101 dann einmal dieses ro:te Symbol neben dem S
+6 102 und einmal den grauen Strich
+6 103 dazu dann einmal das lila MTP S unten links
+6 104 und das MTP lila C
+6 105 dann einmal dieses rote Symbol hier vorne
+6 106 und jetzt einmal dieses Symbol das hier vorne ist MTP das kann ich immer nicht benennen weil ich nicht weiß was das ist MTP das wo ich gerade draufzeige
+6 11 und MTP nimm mal den lila Kasten MTP über dem roten Plus MTP also das da oben
+6 111 dann den blauen Strich MTP der ist hier unten rechts hier vorne
+6 114 und dann MTP das graue L
+6 115 dann MTP wieder dieses MTP komische Symbol hier vorne dieses lilane MTP also das da
+6 116 und MTP aus dieser diagonalen Reihe MTP möchte ich gerne das unten rechts haben
+6 117 dann aus diesem Cluster hier vorne MTP dieses MTP Pluszeichen
+6 118 und noch MTP mal gucken wir haben ja noch ein komisches Symbol wieder hier MTP nimm mal dieses grüne hier vorne MTP halt dieses
+6 119 dann einmal MTP dieses dunkelblaue MTP Symbol MTP ich weiß leider nicht welches das was das ist MTP dieses quasi Y
+6 120 und dann MTP das MTP gelbe MTP das untere gelbe Symbol
+6 121 dazu dann dieses hellblaue Plus ähm MTP nicht Pluszeichen sondern das T MTP das hellblaue T hier vorne
+6 122 und dann MTP diesen lila Strich hier
+6 123 gucken MTP was wir noch nehmen können MTP dieses rote C MTP also genau das hier vorne
+6 127 dann MTP das zweite rote S MTP genau
+6 13 äh:m MTP jetzt einmal das MTP umgedrehte MTP L MTP steht aufm Kopf MTP so als Tipp das ist unten links MTP das hier vorne
+6 133 dann einmal dieses graue Symbol hier
+6 134 und dann MTP dieses grüne T
+6 136 und MTP dieser dunkelblaue Strich unten links
+6 137 dann einmal MTP dieses MTP grüne MTP Symbol neben dem S hier vorne
+6 139 dann MTP einmal bitte unten rechts MTP das Symbol das in der zweiten Reihe ganz rechts ist MTP also aus dieser Gruppe hier zweite Reihe ganz rechts
+6 140 dann das lila S
+6 141 und einmal den grauen Winkel unten links
+6 143 dann einmal das grüne Pluszeichen oben rechts
+6 144 und dieses C hier vorne
+6 145 dann MTP nehmen wir mal das MTP dunkelblaue Symbol
+6 146 und dazu MTP das graue T
+6 147 dann nimm bitte einmal dieses rote Symbol hier
+6 148 dann einmal bitte dieses MTP graue dieser graue Winkel hier vorne
+6 151 dann MTP nehmen wir den grünen Strich
+6 152 und dazu MTP das halbe T oben links
+6 153 dann nimm bitte einmal MTP das MTP blaue Kreuz unten links
+6 155 und bitte einmal das lila C
+6 157 dann MTP das MTP in der MTP oberen Hälfte das S oben rechts
+6 158 dann einmal in der MTP unteren Hälfte MTP das MTP C
+6 159 dann nimm mal bitte aus der oberen Hälfte das L
+6 16 jetzt bitte den Strich unter dem gelben T
+6 160 und MTP dann MTP das MTP graue halbe T das auf der linken Seite ist MTP also das hier vorne
+6 162 und dieses Pluszeichen hier
+6 163 da:nn MTP aus der linken Hälfte das lila C
+6 164 ähm MTP das halbe T unten links MTP das kleine halbe T
+6 165 dazu MTP dann MTP ähm MTP auf der linken Hälfte MTP das gelbe T MTP also unten links das gelbe T
+6 168 gut dann den hellblauen Strich
+6 169 der an das graue T unten links
+6 17 okay MTP oh wir haben so viele Cs hier MTP nimm mal bitte das lila C
+6 171 dann das rote Symbol
+6 172 dazu dann das blaue C in der rechten Hälfte unten MTP also aus dieser Ecke hier das C bitte
+6 173 dann einmal den roten Winkel
+6 174 und das Symbol hier oben rechts
+6 175 dann einmal MTP dieser grüne Block hier vorne
+6 176 und der lila Strich unten rechts
+6 177 dazu dann einma:l MTP das Symbol ganz unten links
+6 178 dann dieses lila Symbol hier
+6 179 und dann einmal bitte das einzige MTP einzige lila Zeichen
+6 18 äh MTP und jetzt das MTP einzige hellblaue Zeichen MTP das halbe T
+6 180 dann das MTP gelbe Zeichen unten links
+6 182 dann einmal bitte MTP der blaue Block MTP unten links
+6 183 und nochmal denselben Block MTP also nochmal den hier vorne MTP er hat sich ja nicht bewegt
+6 184 da MTP nn MTP aus dem Block aus diesen ganzen blauen Symbolen oben links MTP bitte das MTP untere linke
+6 185 dann aus der unteren Hälfte das untere grüne MTP Kreuz
+6 186 dann einmal diesen blauen Strich hier vorne MTP also genau den hier MTP der blaue Strich
+6 187 und dazu einmal das rote S
+6 189 und einmal MTP das MTP gelbe halbe T unten rechts
+6 19 u:nd: MTP jetzt nimm bitte diesen MTP lila Block unten links MTP den hier vorne
+6 190 dann das einzige graue Symbol
+6 191 und dazu MTP jetzt MTP der rote Strich
+6 192 nimm bitte einmal den unteren grauen Strich MTP der links ist MTP also den hier vorne
+6 193 und dazu das grüne T
+6 194 dann bitte hier einmal das graue S oben links
+6 196 dann einmal diesen blauen Strich hier vorne
+6 197 dazu dann MTP das gelbe T MTP ähm das gelbe halbe T oben rechts
+6 198 okay MTP jetzt das gelbe T oben links
+6 199 dazu MTP dieses grüne Pluszeichen
+6 2 okay MTP jetzt bitte da:s MTP dieses lila Zeichen rechts MTP dort neben dem MTP blauen L
+6 200 dann nehmen wir einmal bitte das lila T
+6 201 und dann einmal das graue S
+6 202 und jetzt das einzige dunkelblaue Symbol
+6 203 da:nn das grü:ne MTP L das aufm Kopf steht MTP wir haben ja diesen Winkel hier vorne aber ich möchte gerne dieses da
+6 204 und dann einmal der MTP hellblaue Block
+6 205 dieses MTP blaue Kreuz hier vorne
+6 206 und dazu einmal das gelbe C
+6 207 dann dieses lila Zeichen hier vorne MTP nee das da oben rechts MTP dieses lila Symbol dort
+6 208 und dann einmal den unteren gelben Block MTP oben rechts
+6 209 dann einmal bitte dieses MTP graue dieser graue Winkel hier vorne
+6 21 okay und jetzt nimm bitte einmal MTP das gelbe S MTP 's gibt nur ein gelbes S hier MTP markier mal das hier vorne
+6 210 da:nn MTP dieses C hier vorne
+6 211 also das hier MTP hier vorne
+6 22 und jetzt MTP einmal MTP das rote T
+6 23 jetzt dieses MTP hm MTP wie nennt man denn das? MTP dieses quasi Ypsilon MTP fast YpsilonZeichen hier dieses rote hier vorne
+6 24 dann nimm mal den gelben Strich unten rechts
+6 25 und dann einmal den grauen Block MTP oben links MTP der ist zwischen diesem blauen und lila Zeichen dazwischen MTP so MTP wir sehen diese beiden hier vorne und genau das
+6 26 und dann nehmen wir auch noch mal das rote L MTP oben links
+6 27 und nehmen dazu dann noch das MTP rote MTP L oben rechts MTP das aufm Kopf steht
+6 28 dazu nehmen wir dann noch MTP den gelben Block unten rechts MTP sieht für mich immer noch wie'n B aus
+6 3 okay MTP je:tzt MTP nimm mal unten links dann das MTP e:rste grüne S MTP das ist falsch MTP nimm mal das linke grüne S
+6 31 und dann dieses rote Zeichen da oben rechts
+6 32 und dann noch MTP den MTP hellblauen Kasten
+6 33 jetzt frag ich mich gerade ob du auch was nimmst wenn ich da gerade nicht hinschaue MTP nimm mal bitte das grüne Pluszeichen
+6 34 hm MTP das klappt ja ganz gut MTP dann nimm mal nochmal das MTP von links gesehen erste TZeichen MTP das oben links in der Ecke
+6 35 was gibt noch? MTP dann das grü:ne MTP L hier vorne
+6 36 und dazu dann: MTP wir haben ja diese fünf Zeichen da oben und ich möchte genau das in der Mitte haben
+6 38 so dann haben wir auch noch MTP haben wir auch schon wieder lange nicht gehabt nehmen wir noch mal das gelbe C hier
+6 39 und dazu dann MTP von den vier Symbolen hier das ist ja MTP die ich alle nicht beschreiben kann MTP nimm da mal das MTP erste gelbe
+6 4 okay MTP dann MTP nimm jetzt mal bitte diesen grauen Block oben links MTP das ein bisschen hässlich, aber MTP die da vorne
+6 42 einfach weitermachen? MTP okay nimm mal das gelbe Kreuz unten links MTP das sind jetzt zwei und da möchte ich gern das untere haben
+6 43 dann MTP aus diesem Wirrwarr da oben rechts möchte ich das MTP Kreuz in der Mitte haben
+6 44 dann bitte einmal den MTP das einzige dunkelblaue Symbol
+6 45 ähm MTP und von diesen drei wir haben ja diese drei Blöcke hier unten und da möchte ich bitte den: mittleren haben
+6 47 dann bitte einmal das grüne C
+6 48 und dann einmal bitte MTP bei diesen MTP vier Symbolen wieder MTP das MTP zweite MTP halbe T MTP wir haben ja diese drei Gruppen hier und da möchte ich bitte das grüne halbe T haben
+6 49 dann aus der Gruppierung da unten links einmal das MTP lila L MTP das aufm Kopf steht
+6 50 ähm MTP dann einmal von dieser Gruppierung oben rechts MTP den oberen roten Block
+6 51 puh MTP nehmen wir doch auch von hier oben MTP einmal das blaue C MTP also das in der Mitte MTP habe ich grad noch draufgezeigt du siehst ja hier die drei und dann einmal das hier vorne
+6 52 ähm MTP dann einmal das einzige rote Symbol
+6 53 ähm MTP was haben wir noch? MTP den hellblauen Strich oben rechts
+6 55 ähm MTP aus diesen MTP aus dieser Gruppe unten links das Symbol das genau in der Mitte ist MTP also hier aus diesem Haufen hier
+6 56 dann: MTP einmal das Symbol das zwischen den beiden roten Ls liegt MTP wenn wir zwei Ls hier MTP rechts MTP und da möchte ich gerne das in der Mitte haben
+6 57 ähm MTP dann einmal dieses graue Symbol hier vorne
+6 58 und dazu dann einmal MTP hier noch das MTP gelbe L
+6 6 was sollen wir noch nehmen MTP jetzt das rote Zeichen MTP ganz rechts MTP unten MTP das markier bitte mal MTP okay mit Sprache verstehen wir uns immer noch nicht MTP aber das da möchte ich bitte
+6 60 dann: MTP nimm mal aus dieser Gruppe hier vorne hier vorne unten links MTP das dritte L MTP das aufm Kopf steht MTP so'n Ranking machen wenn das erste, das zweite und dann das dritte
+6 61 okay MTP dann MTP das rote Kreuz
+6 62 u:nd MTP links aus der zweiten Reihe MTP das MTP linke Symbol MTP also wir haben ja hier vier Reihen MTP na fünf schon fast MTP und dann möchte ich aus dieser zweiten Reihe hier MTP das linke Symbol haben
+6 63 ähm MTP dann einmal bitte die MTP aus der Gruppe hier o:ben das einzige grüne Symbol
+6 64 und dann bitte einmal den MTP ro:ten Strich
+6 65 dann einmal MTP ähm MTP das graue C was wir unten rechts haben
+6 66 und dazu nehme dann das Symbol, was unter dem: MTP C ist, das unten links ist MTP also aus dieser Gruppe hier da haben wir ja das C und das Symbol, das da drunter ist
+6 67 dazu dann einmal das MTP den MTP grünen Winkel
+6 68 und dann: MTP können wir hier schon fast was schreiben MTP nimm mal das gelbe T hier vorne
+6 69 und das grüne S MTP oder fünf
+6 7 jetzt nimm bitte mal MTP dieses Zeichen da MTP das ist falsch MTP nicht das rote sondern das graue oben links
+6 70 T C T klingt auch toll MTP dann das MTP L hier vorne MTP nur das MTP da oben genau
+6 71 und dazu der grüne MTP Block neben dem roten T
+6 72 dann MTP nehmen wir noch das MTP zweite ähm das zweite T das ähm rechts ist MTP aus dieser Gruppe da da möcht ich gern das gelbe T haben
+6 73 dann markier mal einmal bitte auch noch den: MTP Strich unten links
+6 74 u:nd dazu noch dieses Symbol da oben rechts das rote
+6 75 dazu nehmen wir dann noch MTP dieses graue Zeichen was auch immer das ist oben links, dieses MTP das gibt nicht mal bei Tetris MTP dieses graue da oben
+6 76 und da:zu das MTP untere MTP T: unten links das hellblaue
+6 77 ähm dann: MTP aus der MTP Ecke oben rechts das zweiten den zweiten Strich MTP aus dieser Gruppe hier vorne MTP möchte ich gerne diesen grauen Strich haben
+6 79 dann einmal den grauen Strich unten links
+6 80 u:nd: MTP dieses hellblaue Symbol unten rechts auch noch MTP wenn wir noch weiter sammeln haben wir bald ein tolles Tetrisspiel
+6 86 u:nd das hellblaue C
+6 88 nimm dazu dann dieses blaue Symbol dort
+6 89 und aus der Gruppe hier vo:rne bitte das hellgrüne Symbol
+6 9 jetzt nimm bitte mal das MTP gelbe T
+6 90 dazu dann einmal das gelbe hier vorne
+6 92 dann dazu aus MTP dieser grünen Gruppe hier unten MTP den MTP Block unten links
+6 94 dann einmal diesen hellgrünen Block hier
+6 96 dann einmal das zweite MTP halbe MTP gelbe T da oben links
+6 97 dazu dann einmal dieses grüne Symbol hier oben
+7 1 rechts unten
+7 10 links unten der rote Winkel
+7 101 oben links das untere graue
+7 102 unten links das blaue in der Mitte
+7 103 oben rechts das blaue
+7 104 oben rechts das obere grüne
+7 105 oben rechts das gelbe
+7 107 unten links das gelbe
+7 108 oben rechts das gelbe
+7 109 unten rechts der untere grüne Balken
+7 11 rechts unten das gelbe
+7 110 unten links das gelbe
+7 112 oben links in der oberen Reihe das mittlere
+7 113 oben links das rote in der unteren Reihe
+7 115 unten rechts das untere grüne
+7 116 oben links der violette Balken
+7 117 unten rechts MTP das rechte
+7 118 oben links das grüne
+7 119 oben links das MTP blaue
+7 12 rechts oben MTP der senkrechte Balken
+7 120 unten links der gelbe Balken
+7 122 unten links MTP das linke gelbe
+7 123 unten links das gelbe
+7 126 unten links das graue
+7 127 unten rechts das gelbe
+7 128 oben links das grüne
+7 129 unten rechts das linke gelbe
+7 13 rechts unten das blaue
+7 130 unten links das grüne
+7 131 oben rechts MTP das obere gelbe
+7 133 oben links das obere MTP gelbe
+7 134 unten links MTP der türkise Balken
+7 135 unten rechts das unterste grüne
+7 136 oben rechts das gelbe
+7 137 oben links MTP das linke
+7 138 unten links das untere graue
+7 139 unten links das mittlere blaue
+7 14 links unten in de:r MTP Ecke MTP das mittige rote
+7 140 unten rechts das blaue
+7 142 unten rechts das gelbe
+7 146 oben links das graue
+7 148 unten links der Balken
+7 149 oben rechts das graue
+7 15 rechts oben das grüne Kreuz
+7 153 unten rechts das rote
+7 155 unten links das rote
+7 156 unten links das violette
+7 158 oben links das rote
+7 159 oben links das rote
+7 16 links oben MTP das grüne zur Mitte hin
+7 160 unten links das graue
+7 161 oben rechts das grüne
+7 162 unten links das gelbe
+7 164 unten links das untere gelbe
+7 17 links unten das rote
+7 170 unten links das violette
+7 171 oben links das violette
+7 172 oben rechts das rote in der MItte
+7 173 oben rechts das blaue
+7 174 oben rechts das graue
+7 175 unten links das violette
+7 176 unten links das violette
+7 177 oben rechts das violette
+7 179 oben rechts das gelbe
+7 18 rechts oben das violette
+7 180 unten links das graue
+7 183 unten links der grüne Balken
+7 184 unten links das gelbe
+7 185 oben rechts das graue
+7 186 unten rechts das gelbe
+7 187 unten links das türkise
+7 188 unten links das gelbe
+7 189 unten rechts das blaue
+7 19 links oben MTP der untere violette Winkel
+7 190 oben links das grüne
+7 191 oben links das graue
+7 193 unten links das grüne
+7 195 unten rechts das rote
+7 196 oben rechts MTP das linke blaue
+7 197 oben rechts das türkise in der Mitte
+7 198 unten rechts das blaue
+7 199 unten links das grüne
+7 2 links oben das rote Kreuz
+7 20 links unten das graue
+7 200 unten links das graue
+7 201 oben rechts MTP das graue in der Mitte
+7 203 unten rechts das graue
+7 204 unten links das rote
+7 205 unten links MTP das mittlere grüne Kreuz
+7 206 unten links das blaue
+7 207 unten links das grüne
+7 21 rechts oben MTP der grüne Winkel in der Mitte
+7 22 rechts unten das rote
+7 24 links oben MTP das unterste gelbe
+7 26 links unten das blaue
+7 27 links unten der grüne Winkel in der Mitte
+7 28 rechts unten das graue MTP Kreuz
+7 3 links das grüne Kruez
+7 30 links unten das blaue
+7 31 rechts unten MTP das gelbe MTP außen links
+7 32 rechts unten das graue
+7 34 rechts oben MTP der linke von den MTP beiden roten
+7 35 links oben der untere MTP senkrechte Balken
+7 37 rechts oben MTP der graue Balken
+7 4 rechts unten der graue senkrechte Balken
+7 42 rechts oben MTP das MTP violette unten
+7 43 links oben das blaue
+7 44 links unten MTP das MTP obere grüne
+7 45 links oben MTP das türkise Kreuz
+7 46 rechts unten MTP der rechte gelbe Balken
+7 47 rechts oben MTP das obere gelbe Kreuz
+7 48 rechts unten das gelbe
+7 49 links oben das türkise
+7 5 das äußerste links unten
+7 50 rechts unten das MTP äußere türkise MTP rechts außen
+7 51 oben links MTP das linke von den beiden unteren
+7 52 oben links das rechte von den beiden unteren
+7 53 unten rechts das blaue
+7 54 unten links das unter violette
+7 55 unten links MTP das linke blaue
+7 56 oben rechts das graue
+7 57 unten rechts MTP das untere türkise
+7 58 oben links MTP das links untere
+7 59 unten links MTP das untere blaue
+7 6 rechts unten das graue
+7 60 oben links das grüne Kreuz
+7 61 oben rechts MTP das türkise in der Mitte MTP ähm MTP das violette in der Mitte
+7 62 oben links der untere graue Balken
+7 63 unten links das grüne
+7 64 unten rechts das obere türkise
+7 65 oben links das gelbe in der Mitte
+7 66 unten rechts das gelbe
+7 67 oben rechts das blaue Kreuz
+7 68 unten links das untere blaue
+7 69 oben rechts der graue Winkel
+7 7 rechts MTP rechts unten das grüne
+7 70 oben links MTP unten das graue
+7 71 oben links MTP der rote Winkel in der Mitte
+7 72 unten links das rote
+7 73 unten rechts der grüne senkrechte Balken
+7 74 oben rechts MTP das obere graue
+7 75 oben links das gelbe
+7 77 unten links das gelbe
+7 78 unten rechts das graue
+7 79 unten links der untere gelbe Balken
+7 8 rechts oben das graue
+7 80 unten rechts der ober violette Winkel
+7 81 unten rechts der blaue Balken
+7 84 gut okay MTP okay unten rechts das gelbe in der Mitte
+7 85 oben links das violette
+7 86 unten links das violette
+7 87 unten rechts das grüne
+7 88 oben rechts das blaue
+7 89 unten links das gelbe
+7 9 links oben das gelbe
+7 90 oben links das blaue in der Ecke
+7 91 oben links das obere violette
+7 92 oben rechts das türkise
+7 93 unten links das blaue in der Mitte
+7 95 unten rechts das violette Kreuz
+7 96 oben rechts das türkise MTP links unten
+7 98 unten links das graue
+7 99 unten rechts das graue
